@@ -1,0 +1,29 @@
+sosna problems:
+
+Cresnet wiring problems: double data to CNTBLK, double power to hub
+IR on Satellites not wired or labeled as expected
+IR on SAT A & B did not work initially
+Cat5 audio to study bad
+Left audio from RMC in study bad
+Audio for FM A and B switched
+Billiard room speakers???
+Basement Rec RM TV not wired for RS232 (IR).
+Basement REC RM RCVR not wired for RS232
+Basement RMCLV video not wired properly
+
+
+Compiling problems.  Needed to delete SPlswork folder to compile.
+K-Scapes do not show up at all (video & rs232 control)
+Couldn't get Basement Rec RM TV to respond after using temp wire
+HVAC review and set up
+
+sosna progress:
+His office is up and running off 1700 (no kscape or cameras)
+Billiard room TV Video is running off 2000 (no kscape, cameras, or AUDIO
+Exercise room TV/Audio works
+Basement Rec - control TV temp IR OK, RCVR temp RS232 OK, Video OK, no audio
+MRA system is running, need little more testing to ensure all rooms wired and labeled properly
+All 1700s are loaded
+All TPS2000s are loaded
+
+

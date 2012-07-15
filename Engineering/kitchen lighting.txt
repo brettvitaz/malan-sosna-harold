@@ -1,0 +1,27 @@
+kitchen
+cook
+pantry
+cans
+hearth
+breakfast
+dioning room
+living room
+his office
+her office
+grill room
+basement
+master bed
+kitchen path
+home
+1:5:13
+
+leave
+front spots
+rear spots
+porch
+garage
+landscape
+tennis court
+patios
+address
+1:5:3

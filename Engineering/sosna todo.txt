@@ -1,0 +1,19 @@
+general:
+security
+climate
+
+
+kitchen
+climate
+-set to all
+-vacation
+-program
+pool
+-finish
+cameras
+-move camera selection to bottom of page
+entertain
+-main level
+-lower level
+-outdoor
+-all

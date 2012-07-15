@@ -1,0 +1,26 @@
+his office
+1:6:19
+room on
+work
+watch tv
+security
+room off
+
+her office
+1:5:25
+
+mbr
+1:5:29
+room on
+uplights
+fireplace
+security
+room off
+
+hearth
+1:5:26
+room on
+watch tv
+kitchen
+security
+room off
