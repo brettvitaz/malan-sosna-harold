@@ -4,7 +4,7 @@ Version=1
 [
 ObjTp=FSgntr
 Sgntr=SimplWindow
-RelVrs=3.11.15
+RelVrs=4.01.09
 IntStrVrs=2
 MinSMWVrs=3.00.00
 MinTIOVrs=388
@@ -18,13 +18,13 @@ S0Nd=1
 S1Nd=2
 SLNd=3
 PrNm=PRO2 - Sosna.smw
-DbVr=33.05.005.01
-DvcDbVr=45.00.019.00
+DbVr=34.01.006.00
+DvcDbVr=45.05.005.00
 PgmNm=Brett Vitaz
 DlrNm=M. Alan Associates
 CltNm=Sosna Home
-SmVr=828
-DvVr=828
+SmVr=833
+DvVr=833
 TpN1=1
 TpN2=2
 TpN3=3
@@ -48,6 +48,8 @@ PrH=1
 DvC=362
 ObjVer=1
 Ad=00
+RelStat=Release
+ProdLine=2-Series
 DbH=97
 mC=10
 C1=3
@@ -117,6 +119,7 @@ ObjVer=1
 SlC=2
 Ad=04
 SmH=6
+RelStat=Release
 mC=6
 C1=8
 C2=10
@@ -146,6 +149,8 @@ DvC=369
 ObjVer=1
 Ad=A
 SmH=7
+RelStat=Release
+ProdLine=2-Series
 CmH=1
 DbH=13
 CsH=13
@@ -171,6 +176,8 @@ DvC=344
 ObjVer=1
 Ad=B
 SmH=52
+RelStat=Release
+ProdLine=Residential AV
 CmH=15
 DbH=2
 CsH=20
@@ -196,6 +203,8 @@ DvC=344
 ObjVer=1
 Ad=B
 SmH=179
+RelStat=Release
+ProdLine=Residential AV
 CmH=16
 DbH=14
 CsH=60
@@ -221,6 +230,8 @@ DvC=344
 ObjVer=1
 Ad=B
 SmH=252
+RelStat=Release
+ProdLine=Residential AV
 CmH=17
 DbH=15
 CsH=21
@@ -246,6 +257,8 @@ DvC=344
 ObjVer=1
 Ad=B
 SmH=253
+RelStat=Release
+ProdLine=Residential AV
 CmH=18
 DbH=30
 CsH=48
@@ -271,6 +284,8 @@ DvC=344
 ObjVer=1
 Ad=D
 SmH=255
+RelStat=Release
+ProdLine=Residential AV
 CmH=19
 DbH=31
 CsH=49
@@ -298,6 +313,7 @@ ObjVer=1
 SlC=2
 Ad=05
 SmH=13
+RelStat=Release
 mC=8
 C1=22
 C2=23
@@ -437,6 +453,7 @@ ObjVer=1
 SlC=2
 Ad=06
 SmH=14
+RelStat=Release
 mC=8
 C1=32
 C2=34
@@ -468,6 +485,7 @@ DvC=125
 ObjVer=1
 SlC=63
 Ad=01
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -490,6 +508,7 @@ DvC=125
 ObjVer=1
 SlC=63
 Ad=02
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -512,6 +531,7 @@ DvC=125
 ObjVer=1
 SlC=63
 Ad=03
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -534,6 +554,7 @@ DvC=125
 ObjVer=1
 SlC=63
 Ad=04
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -556,6 +577,7 @@ DvC=125
 ObjVer=1
 SlC=63
 Ad=05
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -578,6 +600,7 @@ DvC=125
 ObjVer=1
 SlC=63
 Ad=06
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -600,6 +623,7 @@ DvC=125
 ObjVer=1
 SlC=63
 Ad=07
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -622,6 +646,7 @@ DvC=125
 ObjVer=1
 SlC=63
 Ad=08
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -645,6 +670,7 @@ ObjVer=1
 SlC=2
 Ad=07
 SmH=15
+RelStat=Release
 mC=8
 C1=50
 C2=52
@@ -676,6 +702,8 @@ DvC=7
 ObjVer=1
 SlC=9
 Ad=01
+RelStat=Release
+ProdLine=General Purpose IO
 ]
 [
 ObjTp=Dv
@@ -698,6 +726,8 @@ DvC=7
 ObjVer=1
 SlC=9
 Ad=02
+RelStat=Release
+ProdLine=General Purpose IO
 ]
 [
 ObjTp=Dv
@@ -720,6 +750,8 @@ DvC=7
 ObjVer=1
 SlC=9
 Ad=03
+RelStat=Release
+ProdLine=General Purpose IO
 ]
 [
 ObjTp=Dv
@@ -742,6 +774,8 @@ DvC=7
 ObjVer=1
 SlC=9
 Ad=04
+RelStat=Release
+ProdLine=General Purpose IO
 ]
 [
 ObjTp=Dv
@@ -764,6 +798,8 @@ DvC=7
 ObjVer=1
 SlC=9
 Ad=05
+RelStat=Release
+ProdLine=General Purpose IO
 ]
 [
 ObjTp=Dv
@@ -786,6 +822,8 @@ DvC=7
 ObjVer=1
 SlC=9
 Ad=06
+RelStat=Release
+ProdLine=General Purpose IO
 ]
 [
 ObjTp=Dv
@@ -808,6 +846,8 @@ DvC=7
 ObjVer=1
 SlC=9
 Ad=07
+RelStat=Release
+ProdLine=General Purpose IO
 ]
 [
 ObjTp=Dv
@@ -830,6 +870,8 @@ DvC=7
 ObjVer=1
 SlC=9
 Ad=08
+RelStat=Release
+ProdLine=General Purpose IO
 ]
 [
 ObjTp=Dv
@@ -865,6 +907,7 @@ ObjVer=1
 SlC=2
 Ad=09
 SmH=16
+RelStat=Release
 mC=254
 C1=69
 C2=70
@@ -1774,6 +1817,7 @@ ObjVer=1
 SlC=2
 Ad=10
 SmH=17
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -1784,6 +1828,7 @@ DvC=616
 ObjVer=1
 Ad=03
 SmH=3268
+RelStat=None
 DbH=1
 CsH=39
 ]
@@ -1796,6 +1841,8 @@ DvC=344
 ObjVer=1
 Ad=D
 SmH=1159
+RelStat=Release
+ProdLine=Residential AV
 CmH=20
 DbH=32
 CsH=50
@@ -1810,6 +1857,8 @@ DvC=275
 ObjVer=1
 Ad=3E
 SmH=407
+RelStat=Release
+ProdLine=Residential AV
 DbH=82
 CsH=9
 mC=1
@@ -1824,6 +1873,8 @@ DvC=596
 ObjVer=1
 Ad=02
 SmH=58
+RelStat=Release
+ProdLine=Touch Screen
 DbH=3
 CsH=8
 ]
@@ -1836,6 +1887,8 @@ DvC=596
 ObjVer=1
 Ad=03
 SmH=59
+RelStat=Release
+ProdLine=Touch Screen
 DbH=5
 CsH=10
 ]
@@ -1848,6 +1901,8 @@ DvC=817
 ObjVer=1
 Ad=04
 SmH=5123
+RelStat=Release
+ProdLine=TPS
 DbH=106
 CsH=75
 ]
@@ -1860,6 +1915,8 @@ DvC=379
 ObjVer=1
 Ad=02
 SmH=214
+RelStat=Release
+ProdLine=2-Series
 DbH=7
 mC=8
 C1=405
@@ -1880,6 +1937,8 @@ DvC=388
 ObjVer=1
 Ad=06
 SmH=3281
+RelStat=Release
+ProdLine=TPS
 DbH=8
 CsH=1
 Loc=Her Bath
@@ -1893,6 +1952,8 @@ DvC=369
 ObjVer=1
 Ad=B
 SmH=217
+RelStat=Release
+ProdLine=2-Series
 CmH=3
 DbH=9
 CsH=11
@@ -1906,6 +1967,8 @@ DvC=657
 ObjVer=1
 Ad=25
 SmH=3285
+RelStat=Release
+ProdLine=HVAC
 DbH=10
 CsH=43
 mC=6
@@ -1938,6 +2001,7 @@ ObjVer=1
 SlC=144
 Ad=01
 SmH=3286
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -1961,6 +2025,7 @@ ObjVer=1
 SlC=144
 Ad=02
 SmH=3287
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -1984,6 +2049,7 @@ ObjVer=1
 SlC=144
 Ad=03
 SmH=3288
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -2007,6 +2073,7 @@ ObjVer=1
 SlC=144
 Ad=04
 SmH=3289
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -2030,6 +2097,7 @@ ObjVer=1
 SlC=144
 Ad=05
 SmH=3290
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -2053,6 +2121,7 @@ ObjVer=1
 SlC=144
 Ad=06
 SmH=3291
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -2063,6 +2132,8 @@ DvC=303
 ObjVer=1
 Ad=48
 SmH=64
+RelStat=Release
+ProdLine=Residential AV
 DbH=11
 CsH=6
 Loc=Area3
@@ -2097,6 +2168,7 @@ ObjVer=1
 SlC=2
 Ad=01
 SmH=195
+RelStat=Release
 Loc=Area3
 mC=4
 C1=350
@@ -2187,6 +2259,7 @@ ObjVer=1
 SlC=2
 Ad=03
 SmH=196
+RelStat=Release
 Loc=Area3
 mC=1
 C1=357
@@ -2212,6 +2285,8 @@ DvC=119
 ObjVer=1
 SlC=57
 Ad=01
+RelStat=Release
+ProdLine=2-Series
 Loc=Area3
 ]
 [
@@ -2236,6 +2311,7 @@ ObjVer=1
 SlC=2
 Ad=04
 SmH=197
+RelStat=Release
 Loc=Area3
 mC=1
 C1=361
@@ -2262,6 +2338,8 @@ ObjVer=1
 SlC=54
 Ad=A
 SmH=198
+RelStat=Release
+ProdLine=Residential AV
 CmH=2
 DbH=48
 CsH=51
@@ -2299,6 +2377,7 @@ ObjVer=1
 SlC=2
 Ad=06
 SmH=199
+RelStat=Release
 Loc=Area3
 mC=1
 C1=366
@@ -2324,6 +2403,7 @@ DvC=352
 ObjVer=1
 SlC=76
 Ad=01
+RelStat=Release
 Loc=Area3
 ]
 [
@@ -2348,6 +2428,7 @@ ObjVer=1
 SlC=2
 Ad=07
 SmH=212
+RelStat=Release
 Loc=Area3
 mC=1
 C1=370
@@ -2373,6 +2454,7 @@ DvC=361
 ObjVer=1
 SlC=92
 Ad=01
+RelStat=Release
 Loc=Area3
 ]
 [
@@ -2384,6 +2466,8 @@ DvC=369
 ObjVer=1
 Ad=C
 SmH=218
+RelStat=Release
+ProdLine=2-Series
 CmH=4
 DbH=12
 CsH=14
@@ -2397,6 +2481,8 @@ DvC=133
 ObjVer=1
 Ad=D
 SmH=81
+RelStat=Release
+ProdLine=2-Series
 DbH=87
 ]
 [
@@ -2408,6 +2494,8 @@ DvC=133
 ObjVer=1
 Ad=E
 SmH=97
+RelStat=Release
+ProdLine=2-Series
 DbH=27
 ]
 [
@@ -2419,6 +2507,8 @@ DvC=133
 ObjVer=1
 Ad=F
 SmH=99
+RelStat=Release
+ProdLine=2-Series
 DbH=88
 ]
 [
@@ -2430,6 +2520,8 @@ DvC=133
 ObjVer=1
 Ad=G
 SmH=100
+RelStat=Release
+ProdLine=2-Series
 DbH=89
 ]
 [
@@ -2441,6 +2533,8 @@ DvC=133
 ObjVer=1
 Ad=H
 SmH=101
+RelStat=Release
+ProdLine=2-Series
 DbH=96
 ]
 [
@@ -2452,6 +2546,8 @@ DvC=133
 ObjVer=1
 Ad=A
 SmH=102
+RelStat=Release
+ProdLine=2-Series
 DbH=98
 ]
 [
@@ -2463,6 +2559,7 @@ DvC=415
 ObjVer=1
 Ad=53
 SmH=149
+RelStat=None
 DbH=33
 CsH=34
 Loc=Basement
@@ -2514,6 +2611,8 @@ DvC=303
 ObjVer=1
 Ad=49
 SmH=213
+RelStat=Release
+ProdLine=Residential AV
 DbH=16
 CsH=7
 Loc=Area4
@@ -2535,6 +2634,7 @@ DvC=415
 ObjVer=1
 Ad=52
 SmH=738
+RelStat=None
 DbH=17
 CsH=58
 Loc=Office
@@ -2610,6 +2710,8 @@ DvC=596
 ObjVer=1
 Ad=01
 SmH=739
+RelStat=Release
+ProdLine=Touch Screen
 DbH=19
 CsH=5
 ]
@@ -2622,6 +2724,8 @@ DvC=369
 ObjVer=1
 Ad=D
 SmH=1161
+RelStat=Release
+ProdLine=2-Series
 CmH=5
 DbH=22
 CsH=15
@@ -2635,6 +2739,8 @@ DvC=369
 ObjVer=1
 Ad=F
 SmH=1620
+RelStat=Release
+ProdLine=2-Series
 CmH=8
 DbH=24
 CsH=16
@@ -2662,6 +2768,8 @@ DvC=133
 ObjVer=1
 Ad=B
 SmH=1623
+RelStat=Release
+ProdLine=2-Series
 DbH=28
 CsH=19
 ]
@@ -2674,6 +2782,8 @@ DvC=133
 ObjVer=1
 Ad=B
 SmH=1624
+RelStat=Release
+ProdLine=2-Series
 DbH=29
 CsH=22
 ]
@@ -2686,6 +2796,8 @@ DvC=596
 ObjVer=1
 Ad=01
 SmH=150
+RelStat=Release
+ProdLine=Touch Screen
 DbH=34
 CsH=56
 ]
@@ -2698,6 +2810,8 @@ DvC=596
 ObjVer=1
 Ad=01
 SmH=151
+RelStat=Release
+ProdLine=Touch Screen
 DbH=36
 CsH=57
 ]
@@ -2710,6 +2824,8 @@ DvC=133
 ObjVer=1
 Ad=B
 SmH=3251
+RelStat=Release
+ProdLine=2-Series
 DbH=41
 ]
 [
@@ -2721,6 +2837,7 @@ DvC=415
 ObjVer=1
 Ad=54
 SmH=1118
+RelStat=None
 DbH=43
 CsH=55
 Loc=Master Suite
@@ -2750,6 +2867,8 @@ DvC=133
 ObjVer=1
 Ad=C
 SmH=90
+RelStat=Release
+ProdLine=2-Series
 DbH=42
 ]
 [
@@ -2783,6 +2902,8 @@ DvC=275
 ObjVer=1
 Ad=3D
 SmH=3341
+RelStat=Release
+ProdLine=Residential AV
 DbH=18
 CsH=3
 mC=1
@@ -2809,6 +2930,7 @@ DvC=348
 ObjVer=1
 SlC=70
 Ad=01
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -2819,6 +2941,8 @@ DvC=596
 ObjVer=1
 Ad=0A
 SmH=1119
+RelStat=Release
+ProdLine=Touch Screen
 DbH=62
 CsH=59
 ]
@@ -2831,6 +2955,7 @@ DvC=415
 ObjVer=1
 Ad=A1
 SmH=4296
+RelStat=None
 DbH=52
 CsH=29
 Loc=Theater
@@ -2872,6 +2997,8 @@ DvC=299
 ObjVer=1
 Ad=41
 SmH=3343
+RelStat=Release
+ProdLine=Residential AV
 DbH=20
 mC=1
 C1=445
@@ -2897,6 +3024,7 @@ DvC=353
 ObjVer=1
 SlC=77
 Ad=01
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -2907,6 +3035,8 @@ DvC=399
 ObjVer=1
 Ad=44
 SmH=3345
+RelStat=Release
+ProdLine=Residential AV
 DbH=21
 mC=1
 C1=448
@@ -2932,6 +3062,7 @@ DvC=349
 ObjVer=1
 SlC=71
 Ad=01
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -2965,6 +3096,7 @@ ObjVer=1
 SlC=2
 Ad=01
 SmH=1147
+RelStat=Release
 Loc=Area4
 mC=4
 C1=455
@@ -3041,6 +3173,7 @@ ObjVer=1
 SlC=2
 Ad=03
 SmH=1187
+RelStat=Release
 Loc=Area4
 mC=1
 C1=462
@@ -3066,6 +3199,8 @@ DvC=119
 ObjVer=1
 SlC=57
 Ad=01
+RelStat=Release
+ProdLine=2-Series
 Loc=Area4
 ]
 [
@@ -3090,6 +3225,7 @@ ObjVer=1
 SlC=2
 Ad=04
 SmH=1188
+RelStat=Release
 Loc=Area4
 mC=1
 C1=466
@@ -3116,6 +3252,8 @@ ObjVer=1
 SlC=54
 Ad=A
 SmH=1189
+RelStat=Release
+ProdLine=Residential AV
 CmH=7
 DbH=50
 CsH=52
@@ -3153,6 +3291,7 @@ ObjVer=1
 SlC=2
 Ad=06
 SmH=1190
+RelStat=Release
 Loc=Area4
 mC=1
 C1=471
@@ -3178,6 +3317,7 @@ DvC=352
 ObjVer=1
 SlC=76
 Ad=01
+RelStat=Release
 Loc=Area4
 ]
 [
@@ -3202,6 +3342,7 @@ ObjVer=1
 SlC=2
 Ad=07
 SmH=1191
+RelStat=Release
 Loc=Area4
 mC=1
 C1=475
@@ -3227,6 +3368,7 @@ DvC=361
 ObjVer=1
 SlC=92
 Ad=01
+RelStat=Release
 Loc=Area4
 ]
 [
@@ -3238,6 +3380,8 @@ DvC=303
 ObjVer=1
 Ad=4A
 SmH=1192
+RelStat=Release
+ProdLine=Residential AV
 DbH=23
 CsH=25
 Loc=Area6
@@ -3259,6 +3403,8 @@ DvC=140
 ObjVer=1
 Ad=1F
 SmH=3749
+RelStat=Release
+ProdLine=General Purpose IO
 DbH=65
 CsH=63
 mC=2
@@ -3274,6 +3420,8 @@ DvC=133
 ObjVer=1
 Ad=B
 SmH=4301
+RelStat=Release
+ProdLine=2-Series
 DbH=66
 ]
 [
@@ -3285,6 +3433,8 @@ DvC=133
 ObjVer=1
 Ad=D
 SmH=4302
+RelStat=Release
+ProdLine=2-Series
 DbH=67
 ]
 [
@@ -3296,6 +3446,8 @@ DvC=133
 ObjVer=1
 Ad=D
 SmH=3720
+RelStat=Release
+ProdLine=2-Series
 DbH=99
 ]
 [
@@ -3307,6 +3459,8 @@ DvC=200
 ObjVer=1
 Ad=90
 SmH=4320
+RelStat=Release
+ProdLine=2-Series,3-Series
 DbH=92
 CsH=61
 EtH=2
@@ -3334,6 +3488,8 @@ DvC=356
 ObjVer=1
 SlC=80
 Ad=01
+RelStat=Release
+ProdLine=2-Series
 ]
 [
 ObjTp=Dv
@@ -3344,6 +3500,8 @@ DvC=133
 ObjVer=1
 Ad=A
 SmH=4446
+RelStat=Release
+ProdLine=2-Series
 DbH=93
 ]
 [
@@ -3368,6 +3526,8 @@ ObjVer=1
 SlC=24
 Ad=A
 SmH=4300
+RelStat=Release
+ProdLine=General Purpose IO
 CmH=25
 DbH=94
 CsH=64
@@ -3394,6 +3554,8 @@ ObjVer=1
 SlC=24
 Ad=B
 SmH=4317
+RelStat=Release
+ProdLine=General Purpose IO
 CmH=26
 DbH=100
 CsH=65
@@ -3407,6 +3569,8 @@ DvC=133
 ObjVer=1
 Ad=C
 SmH=4578
+RelStat=Release
+ProdLine=2-Series
 DbH=95
 ]
 [
@@ -3418,6 +3582,8 @@ DvC=657
 ObjVer=1
 Ad=2E
 SmH=4778
+RelStat=Release
+ProdLine=HVAC
 DbH=101
 CsH=66
 mC=6
@@ -3450,6 +3616,7 @@ ObjVer=1
 SlC=144
 Ad=01
 SmH=4779
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -3473,6 +3640,7 @@ ObjVer=1
 SlC=144
 Ad=02
 SmH=4780
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -3496,6 +3664,7 @@ ObjVer=1
 SlC=144
 Ad=03
 SmH=4781
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -3519,6 +3688,7 @@ ObjVer=1
 SlC=144
 Ad=04
 SmH=4782
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -3542,6 +3712,7 @@ ObjVer=1
 SlC=144
 Ad=05
 SmH=4783
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -3564,6 +3735,8 @@ DvC=140
 ObjVer=1
 Ad=A3
 SmH=4304
+RelStat=Release
+ProdLine=General Purpose IO
 DbH=59
 CsH=40
 mC=2
@@ -3592,6 +3765,8 @@ ObjVer=1
 SlC=24
 Ad=A
 SmH=4305
+RelStat=Release
+ProdLine=General Purpose IO
 CmH=22
 DbH=56
 CsH=35
@@ -3618,6 +3793,8 @@ ObjVer=1
 SlC=24
 Ad=B
 SmH=4306
+RelStat=Release
+ProdLine=General Purpose IO
 CmH=23
 DbH=63
 CsH=37
@@ -3632,6 +3809,7 @@ ObjVer=1
 SlC=144
 Ad=06
 SmH=4784
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -3642,6 +3820,8 @@ DvC=657
 ObjVer=1
 Ad=2F
 SmH=4785
+RelStat=Release
+ProdLine=HVAC
 DbH=102
 CsH=67
 mC=6
@@ -3674,6 +3854,7 @@ ObjVer=1
 SlC=144
 Ad=01
 SmH=4786
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -3697,6 +3878,7 @@ ObjVer=1
 SlC=144
 Ad=02
 SmH=4787
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -3720,6 +3902,7 @@ ObjVer=1
 SlC=144
 Ad=03
 SmH=4788
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -3743,6 +3926,7 @@ ObjVer=1
 SlC=144
 Ad=04
 SmH=4789
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -3766,6 +3950,7 @@ ObjVer=1
 SlC=144
 Ad=05
 SmH=4790
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -3789,6 +3974,7 @@ ObjVer=1
 SlC=144
 Ad=06
 SmH=4791
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -3799,6 +3985,8 @@ DvC=200
 ObjVer=1
 Ad=54
 SmH=4968
+RelStat=Release
+ProdLine=2-Series,3-Series
 DbH=103
 CsH=68
 EtH=3
@@ -3826,6 +4014,8 @@ DvC=356
 ObjVer=1
 SlC=80
 Ad=01
+RelStat=Release
+ProdLine=2-Series
 ]
 [
 ObjTp=Dv
@@ -3836,6 +4026,8 @@ DvC=650
 ObjVer=1
 Ad=23
 SmH=5109
+RelStat=Release
+ProdLine=Remotes and Gateways
 DbH=104
 CsH=69
 mC=256
@@ -4139,6 +4331,7 @@ DvC=649
 ObjVer=1
 Ad=55
 SmH=3416
+RelStat=None
 DbH=44
 ]
 [
@@ -4150,6 +4343,8 @@ DvC=373
 ObjVer=1
 Ad=08
 SmH=3418
+RelStat=Release
+ProdLine=2-Series
 DbH=46
 mC=254
 C1=689
@@ -4580,6 +4775,8 @@ DvC=602
 ObjVer=1
 Ad=04
 SmH=3419
+RelStat=Release
+ProdLine=Crestron Mobile
 DbH=47
 CsH=17
 EtH=1
@@ -4593,6 +4790,8 @@ DvC=133
 ObjVer=1
 Ad=A
 SmH=3429
+RelStat=Release
+ProdLine=2-Series
 DbH=58
 CsH=28
 ]
@@ -4605,6 +4804,8 @@ DvC=133
 ObjVer=1
 Ad=A
 SmH=3435
+RelStat=Release
+ProdLine=2-Series
 DbH=64
 ]
 [
@@ -4616,6 +4817,8 @@ DvC=589
 ObjVer=1
 Ad=15
 SmH=3507
+RelStat=Release
+ProdLine=General Purpose IO
 DbH=76
 ]
 [
@@ -4650,6 +4853,8 @@ DvC=369
 ObjVer=1
 Ad=E
 SmH=1196
+RelStat=Release
+ProdLine=2-Series
 CmH=6
 DbH=37
 CsH=62
@@ -4664,6 +4869,7 @@ ObjVer=1
 SlC=2
 Ad=01
 SmH=1193
+RelStat=Release
 Loc=Area6
 mC=4
 C1=997
@@ -4740,6 +4946,7 @@ ObjVer=1
 SlC=2
 Ad=03
 SmH=1389
+RelStat=Release
 Loc=Area6
 mC=1
 C1=1004
@@ -4765,6 +4972,8 @@ DvC=119
 ObjVer=1
 SlC=57
 Ad=01
+RelStat=Release
+ProdLine=2-Series
 Loc=Area6
 ]
 [
@@ -4789,6 +4998,7 @@ ObjVer=1
 SlC=2
 Ad=04
 SmH=1390
+RelStat=Release
 Loc=Area6
 mC=1
 C1=1008
@@ -4815,6 +5025,8 @@ ObjVer=1
 SlC=54
 Ad=A
 SmH=1391
+RelStat=Release
+ProdLine=Residential AV
 CmH=10
 DbH=51
 CsH=53
@@ -4852,6 +5064,7 @@ ObjVer=1
 SlC=2
 Ad=06
 SmH=1392
+RelStat=Release
 Loc=Area6
 mC=1
 C1=1013
@@ -4877,6 +5090,7 @@ DvC=352
 ObjVer=1
 SlC=76
 Ad=01
+RelStat=Release
 Loc=Area6
 ]
 [
@@ -4901,6 +5115,7 @@ ObjVer=1
 SlC=2
 Ad=07
 SmH=1393
+RelStat=Release
 Loc=Area6
 mC=1
 C1=1017
@@ -4926,6 +5141,7 @@ DvC=361
 ObjVer=1
 SlC=92
 Ad=01
+RelStat=Release
 Loc=Area6
 ]
 [
@@ -4937,6 +5153,8 @@ DvC=303
 ObjVer=1
 Ad=4B
 SmH=1394
+RelStat=Release
+ProdLine=Residential AV
 DbH=25
 CsH=26
 Loc=Area9
@@ -4970,6 +5188,8 @@ DvC=303
 ObjVer=1
 Ad=47
 SmH=1380
+RelStat=Release
+ProdLine=Residential AV
 DbH=45
 CsH=23
 Loc=Area2
@@ -5004,6 +5224,7 @@ ObjVer=1
 SlC=2
 Ad=01
 SmH=1381
+RelStat=Release
 Loc=Area2
 mC=4
 C1=1031
@@ -5093,6 +5314,7 @@ ObjVer=1
 SlC=2
 Ad=03
 SmH=1382
+RelStat=Release
 Loc=Area2
 mC=1
 C1=1038
@@ -5118,6 +5340,8 @@ DvC=119
 ObjVer=1
 SlC=57
 Ad=01
+RelStat=Release
+ProdLine=2-Series
 DbH=54
 Loc=Area2
 ]
@@ -5143,6 +5367,7 @@ ObjVer=1
 SlC=2
 Ad=04
 SmH=1383
+RelStat=Release
 Loc=Area2
 mC=1
 C1=1042
@@ -5169,6 +5394,8 @@ ObjVer=1
 SlC=54
 Ad=A
 SmH=1384
+RelStat=Release
+ProdLine=Residential AV
 CmH=9
 DbH=53
 CsH=24
@@ -5206,6 +5433,7 @@ ObjVer=1
 SlC=2
 Ad=06
 SmH=1385
+RelStat=Release
 Loc=Area2
 mC=1
 C1=1047
@@ -5231,6 +5459,7 @@ DvC=352
 ObjVer=1
 SlC=76
 Ad=01
+RelStat=Release
 Loc=Area2
 ]
 [
@@ -5255,6 +5484,7 @@ ObjVer=1
 SlC=2
 Ad=07
 SmH=1386
+RelStat=Release
 Loc=Area2
 mC=1
 C1=1051
@@ -5280,6 +5510,7 @@ DvC=361
 ObjVer=1
 SlC=92
 Ad=01
+RelStat=Release
 Loc=Area2
 ]
 [
@@ -5291,6 +5522,8 @@ DvC=133
 ObjVer=1
 Ad=A
 SmH=1387
+RelStat=Release
+ProdLine=2-Series
 DbH=49
 CsH=27
 Loc=Area2
@@ -5305,6 +5538,7 @@ ObjVer=1
 SlC=2
 Ad=01
 SmH=1395
+RelStat=Release
 Loc=Area9
 mC=4
 C1=1062
@@ -5321,6 +5555,8 @@ DvC=604
 ObjVer=1
 Ad=71
 SmH=2139
+RelStat=Release
+ProdLine=Keypads US-Style
 DbH=90
 ]
 [
@@ -5332,6 +5568,8 @@ DvC=604
 ObjVer=1
 Ad=72
 SmH=2140
+RelStat=Release
+ProdLine=Keypads US-Style
 DbH=91
 ]
 [
@@ -5403,6 +5641,7 @@ ObjVer=1
 SlC=2
 Ad=03
 SmH=1396
+RelStat=Release
 Loc=Area9
 mC=1
 C1=1069
@@ -5428,6 +5667,8 @@ DvC=119
 ObjVer=1
 SlC=57
 Ad=01
+RelStat=Release
+ProdLine=2-Series
 Loc=Area9
 ]
 [
@@ -5452,6 +5693,7 @@ ObjVer=1
 SlC=2
 Ad=04
 SmH=1398
+RelStat=Release
 Loc=Area9
 mC=1
 C1=1073
@@ -5478,6 +5720,8 @@ ObjVer=1
 SlC=54
 Ad=A
 SmH=1399
+RelStat=Release
+ProdLine=Residential AV
 CmH=11
 DbH=86
 CsH=54
@@ -5515,6 +5759,7 @@ ObjVer=1
 SlC=2
 Ad=06
 SmH=1400
+RelStat=Release
 Loc=Area9
 mC=1
 C1=1078
@@ -5540,6 +5785,7 @@ DvC=352
 ObjVer=1
 SlC=76
 Ad=01
+RelStat=Release
 Loc=Area9
 ]
 [
@@ -5564,6 +5810,7 @@ ObjVer=1
 SlC=2
 Ad=07
 SmH=1401
+RelStat=Release
 Loc=Area9
 mC=1
 C1=1082
@@ -5589,6 +5836,7 @@ DvC=361
 ObjVer=1
 SlC=92
 Ad=01
+RelStat=Release
 Loc=Area9
 ]
 [
@@ -5600,6 +5848,8 @@ DvC=303
 ObjVer=1
 Ad=4D
 SmH=1403
+RelStat=Release
+ProdLine=Residential AV
 DbH=26
 CsH=31
 Loc=Area12
@@ -5634,6 +5884,7 @@ ObjVer=1
 SlC=2
 Ad=01
 SmH=1404
+RelStat=Release
 Loc=Area12
 mC=4
 C1=1087
@@ -5697,6 +5948,7 @@ ObjVer=1
 SlC=2
 Ad=03
 SmH=1405
+RelStat=Release
 Loc=Area12
 mC=1
 C1=1094
@@ -5722,6 +5974,8 @@ DvC=119
 ObjVer=1
 SlC=57
 Ad=01
+RelStat=Release
+ProdLine=2-Series
 Loc=Area12
 ]
 [
@@ -5746,6 +6000,7 @@ ObjVer=1
 SlC=2
 Ad=04
 SmH=1406
+RelStat=Release
 Loc=Area12
 mC=1
 C1=1098
@@ -5772,6 +6027,8 @@ ObjVer=1
 SlC=54
 Ad=A
 SmH=1407
+RelStat=Release
+ProdLine=Residential AV
 CmH=12
 DbH=38
 CsH=33
@@ -5809,6 +6066,7 @@ ObjVer=1
 SlC=2
 Ad=06
 SmH=1408
+RelStat=Release
 Loc=Area12
 mC=1
 C1=1103
@@ -5834,6 +6092,7 @@ DvC=352
 ObjVer=1
 SlC=76
 Ad=01
+RelStat=Release
 Loc=Area12
 ]
 [
@@ -5858,6 +6117,7 @@ ObjVer=1
 SlC=2
 Ad=07
 SmH=1410
+RelStat=Release
 Loc=Area12
 mC=1
 C1=1107
@@ -5883,6 +6143,7 @@ DvC=361
 ObjVer=1
 SlC=92
 Ad=01
+RelStat=Release
 Loc=Area12
 ]
 [
@@ -5894,6 +6155,8 @@ DvC=303
 ObjVer=1
 Ad=4C
 SmH=1411
+RelStat=Release
+ProdLine=Residential AV
 DbH=35
 CsH=30
 Loc=Area10
@@ -5928,6 +6191,7 @@ ObjVer=1
 SlC=2
 Ad=01
 SmH=1412
+RelStat=Release
 Loc=Area10
 mC=4
 C1=1112
@@ -5991,6 +6255,7 @@ ObjVer=1
 SlC=2
 Ad=03
 SmH=1413
+RelStat=Release
 Loc=Area10
 mC=1
 C1=1119
@@ -6016,6 +6281,8 @@ DvC=119
 ObjVer=1
 SlC=57
 Ad=01
+RelStat=Release
+ProdLine=2-Series
 Loc=Area10
 ]
 [
@@ -6040,6 +6307,7 @@ ObjVer=1
 SlC=2
 Ad=04
 SmH=1415
+RelStat=Release
 Loc=Area10
 mC=1
 C1=1123
@@ -6066,6 +6334,8 @@ ObjVer=1
 SlC=54
 Ad=A
 SmH=1416
+RelStat=Release
+ProdLine=Residential AV
 CmH=13
 Loc=Area10
 ]
@@ -6101,6 +6371,7 @@ ObjVer=1
 SlC=2
 Ad=06
 SmH=1417
+RelStat=Release
 Loc=Area10
 mC=1
 C1=1128
@@ -6126,6 +6397,7 @@ DvC=352
 ObjVer=1
 SlC=76
 Ad=01
+RelStat=Release
 Loc=Area10
 ]
 [
@@ -6150,6 +6422,7 @@ ObjVer=1
 SlC=2
 Ad=07
 SmH=1418
+RelStat=Release
 Loc=Area10
 mC=1
 C1=1132
@@ -6175,6 +6448,7 @@ DvC=361
 ObjVer=1
 SlC=92
 Ad=01
+RelStat=Release
 Loc=Area10
 ]
 [
@@ -6186,6 +6460,8 @@ DvC=303
 ObjVer=1
 Ad=A2
 SmH=1419
+RelStat=Release
+ProdLine=Residential AV
 DbH=39
 CsH=32
 Loc=Area16
@@ -6220,6 +6496,7 @@ ObjVer=1
 SlC=2
 Ad=01
 SmH=1420
+RelStat=Release
 Loc=Area16
 mC=4
 C1=1137
@@ -6318,6 +6595,7 @@ ObjVer=1
 SlC=2
 Ad=03
 SmH=1421
+RelStat=Release
 Loc=Area16
 mC=1
 C1=1144
@@ -6343,6 +6621,8 @@ DvC=119
 ObjVer=1
 SlC=57
 Ad=01
+RelStat=Release
+ProdLine=2-Series
 Loc=Area16
 ]
 [
@@ -6367,6 +6647,7 @@ ObjVer=1
 SlC=2
 Ad=04
 SmH=1422
+RelStat=Release
 Loc=Area16
 mC=1
 C1=1148
@@ -6393,6 +6674,8 @@ ObjVer=1
 SlC=54
 Ad=A
 SmH=1423
+RelStat=Release
+ProdLine=Residential AV
 CmH=14
 DbH=61
 CsH=36
@@ -6430,6 +6713,7 @@ ObjVer=1
 SlC=2
 Ad=06
 SmH=1424
+RelStat=Release
 Loc=Area16
 mC=1
 C1=1153
@@ -6455,6 +6739,7 @@ DvC=352
 ObjVer=1
 SlC=76
 Ad=01
+RelStat=Release
 Loc=Area16
 ]
 [
@@ -6479,6 +6764,7 @@ ObjVer=1
 SlC=2
 Ad=07
 SmH=1425
+RelStat=Release
 Loc=Area16
 mC=1
 C1=1157
@@ -6504,6 +6790,7 @@ DvC=361
 ObjVer=1
 SlC=92
 Ad=01
+RelStat=Release
 Loc=Area16
 ]
 [
@@ -6515,6 +6802,8 @@ DvC=133
 ObjVer=1
 Ad=A
 SmH=1426
+RelStat=Release
+ProdLine=2-Series
 DbH=40
 Loc=Area3
 ]
@@ -6527,6 +6816,8 @@ DvC=133
 ObjVer=1
 Ad=A
 SmH=1428
+RelStat=Release
+ProdLine=2-Series
 DbH=55
 Loc=Area4
 ]
@@ -6539,6 +6830,8 @@ DvC=133
 ObjVer=1
 Ad=A
 SmH=1430
+RelStat=Release
+ProdLine=2-Series
 DbH=57
 Loc=Area6
 ]
@@ -6551,6 +6844,8 @@ DvC=133
 ObjVer=1
 Ad=A
 SmH=1432
+RelStat=Release
+ProdLine=2-Series
 DbH=60
 Loc=Area9
 ]
@@ -6563,6 +6858,8 @@ DvC=657
 ObjVer=1
 Ad=26
 SmH=86
+RelStat=Release
+ProdLine=HVAC
 DbH=68
 CsH=41
 mC=6
@@ -6595,6 +6892,7 @@ ObjVer=1
 SlC=144
 Ad=01
 SmH=215
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -6618,6 +6916,7 @@ ObjVer=1
 SlC=144
 Ad=02
 SmH=216
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -6641,6 +6940,7 @@ ObjVer=1
 SlC=144
 Ad=03
 SmH=219
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -6664,6 +6964,7 @@ ObjVer=1
 SlC=144
 Ad=04
 SmH=220
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -6687,6 +6988,7 @@ ObjVer=1
 SlC=144
 Ad=05
 SmH=221
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -6710,6 +7012,7 @@ ObjVer=1
 SlC=144
 Ad=06
 SmH=222
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -6720,6 +7023,8 @@ DvC=657
 ObjVer=1
 Ad=27
 SmH=303
+RelStat=Release
+ProdLine=HVAC
 DbH=69
 CsH=12
 mC=6
@@ -6752,6 +7057,7 @@ ObjVer=1
 SlC=144
 Ad=01
 SmH=341
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -6775,6 +7081,7 @@ ObjVer=1
 SlC=144
 Ad=02
 SmH=342
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -6798,6 +7105,7 @@ ObjVer=1
 SlC=144
 Ad=03
 SmH=344
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -6821,6 +7129,7 @@ ObjVer=1
 SlC=144
 Ad=04
 SmH=348
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -6844,6 +7153,7 @@ ObjVer=1
 SlC=144
 Ad=05
 SmH=533
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -6867,6 +7177,7 @@ ObjVer=1
 SlC=144
 Ad=06
 SmH=565
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -6877,6 +7188,8 @@ DvC=657
 ObjVer=1
 Ad=28
 SmH=603
+RelStat=Release
+ProdLine=HVAC
 DbH=70
 CsH=18
 mC=6
@@ -6909,6 +7222,7 @@ ObjVer=1
 SlC=144
 Ad=01
 SmH=926
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -6932,6 +7246,7 @@ ObjVer=1
 SlC=144
 Ad=02
 SmH=1114
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -6955,6 +7270,7 @@ ObjVer=1
 SlC=144
 Ad=03
 SmH=1148
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -6978,6 +7294,7 @@ ObjVer=1
 SlC=144
 Ad=04
 SmH=1149
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -7001,6 +7318,7 @@ ObjVer=1
 SlC=144
 Ad=05
 SmH=1150
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -7024,6 +7342,7 @@ ObjVer=1
 SlC=144
 Ad=06
 SmH=1151
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -7034,6 +7353,8 @@ DvC=657
 ObjVer=1
 Ad=29
 SmH=1152
+RelStat=Release
+ProdLine=HVAC
 DbH=71
 CsH=70
 mC=6
@@ -7066,6 +7387,7 @@ ObjVer=1
 SlC=144
 Ad=01
 SmH=1197
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -7089,6 +7411,7 @@ ObjVer=1
 SlC=144
 Ad=02
 SmH=1199
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -7112,6 +7435,7 @@ ObjVer=1
 SlC=144
 Ad=03
 SmH=1200
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -7135,6 +7459,7 @@ ObjVer=1
 SlC=144
 Ad=04
 SmH=1209
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -7158,6 +7483,7 @@ ObjVer=1
 SlC=144
 Ad=05
 SmH=1219
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -7181,6 +7507,7 @@ ObjVer=1
 SlC=144
 Ad=06
 SmH=1336
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -7191,6 +7518,8 @@ DvC=657
 ObjVer=1
 Ad=2A
 SmH=1440
+RelStat=Release
+ProdLine=HVAC
 DbH=72
 CsH=71
 mC=6
@@ -7223,6 +7552,7 @@ ObjVer=1
 SlC=144
 Ad=01
 SmH=1441
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -7246,6 +7576,7 @@ ObjVer=1
 SlC=144
 Ad=02
 SmH=1442
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -7269,6 +7600,7 @@ ObjVer=1
 SlC=144
 Ad=03
 SmH=1443
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -7292,6 +7624,7 @@ ObjVer=1
 SlC=144
 Ad=04
 SmH=1444
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -7315,6 +7648,7 @@ ObjVer=1
 SlC=144
 Ad=05
 SmH=1492
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -7338,6 +7672,7 @@ ObjVer=1
 SlC=144
 Ad=06
 SmH=1493
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -7348,6 +7683,8 @@ DvC=657
 ObjVer=1
 Ad=2B
 SmH=1494
+RelStat=Release
+ProdLine=HVAC
 DbH=73
 CsH=72
 mC=6
@@ -7380,6 +7717,7 @@ ObjVer=1
 SlC=144
 Ad=01
 SmH=1495
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -7403,6 +7741,7 @@ ObjVer=1
 SlC=144
 Ad=02
 SmH=1496
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -7426,6 +7765,7 @@ ObjVer=1
 SlC=144
 Ad=03
 SmH=1497
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -7449,6 +7789,7 @@ ObjVer=1
 SlC=144
 Ad=04
 SmH=1512
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -7472,6 +7813,7 @@ ObjVer=1
 SlC=144
 Ad=05
 SmH=1513
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -7495,6 +7837,7 @@ ObjVer=1
 SlC=144
 Ad=06
 SmH=1530
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -7505,6 +7848,8 @@ DvC=657
 ObjVer=1
 Ad=2D
 SmH=1625
+RelStat=Release
+ProdLine=HVAC
 DbH=74
 CsH=74
 mC=6
@@ -7537,6 +7882,7 @@ ObjVer=1
 SlC=144
 Ad=01
 SmH=1627
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -7560,6 +7906,7 @@ ObjVer=1
 SlC=144
 Ad=02
 SmH=1633
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -7583,6 +7930,7 @@ ObjVer=1
 SlC=144
 Ad=03
 SmH=1640
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -7606,6 +7954,7 @@ ObjVer=1
 SlC=144
 Ad=04
 SmH=1642
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -7629,6 +7978,7 @@ ObjVer=1
 SlC=144
 Ad=05
 SmH=1643
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -7652,6 +8002,7 @@ ObjVer=1
 SlC=144
 Ad=06
 SmH=1644
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -7662,6 +8013,8 @@ DvC=657
 ObjVer=1
 Ad=2C
 SmH=1645
+RelStat=Release
+ProdLine=HVAC
 DbH=75
 CsH=73
 mC=6
@@ -7694,6 +8047,7 @@ ObjVer=1
 SlC=144
 Ad=01
 SmH=1664
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -7717,6 +8071,7 @@ ObjVer=1
 SlC=144
 Ad=02
 SmH=1683
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -7740,6 +8095,7 @@ ObjVer=1
 SlC=144
 Ad=03
 SmH=1685
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -7763,6 +8119,7 @@ ObjVer=1
 SlC=144
 Ad=04
 SmH=1686
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -7786,6 +8143,7 @@ ObjVer=1
 SlC=144
 Ad=05
 SmH=1687
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -7809,6 +8167,7 @@ ObjVer=1
 SlC=144
 Ad=06
 SmH=1688
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -7819,6 +8178,8 @@ DvC=388
 ObjVer=1
 Ad=07
 SmH=2145
+RelStat=Release
+ProdLine=TPS
 DbH=77
 CsH=42
 Loc=His Bath
@@ -7832,6 +8193,8 @@ DvC=388
 ObjVer=1
 Ad=08
 SmH=2146
+RelStat=Release
+ProdLine=TPS
 DbH=78
 CsH=44
 Loc=Exercise Room
@@ -7845,6 +8208,8 @@ DvC=388
 ObjVer=1
 Ad=09
 SmH=2152
+RelStat=Release
+ProdLine=TPS
 DbH=79
 CsH=45
 Loc=Gym
@@ -7858,6 +8223,8 @@ DvC=388
 ObjVer=1
 Ad=0A
 SmH=2153
+RelStat=Release
+ProdLine=TPS
 DbH=80
 CsH=46
 Loc=Billiard Room
@@ -7871,6 +8238,8 @@ DvC=388
 ObjVer=1
 Ad=0B
 SmH=2154
+RelStat=Release
+ProdLine=TPS
 DbH=81
 CsH=47
 Loc=Lower Terrace
@@ -7884,6 +8253,8 @@ DvC=399
 ObjVer=1
 Ad=45
 SmH=351
+RelStat=Release
+ProdLine=Residential AV
 DbH=4
 CsH=2
 mC=1
@@ -7898,6 +8269,7 @@ DvC=348
 ObjVer=1
 SlC=70
 Ad=01
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -7932,6 +8304,7 @@ DvC=349
 ObjVer=1
 SlC=71
 Ad=01
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -7942,6 +8315,8 @@ DvC=589
 ObjVer=1
 Ad=16
 SmH=1175
+RelStat=Release
+ProdLine=General Purpose IO
 DbH=83
 ]
 [
@@ -7953,6 +8328,7 @@ DvC=649
 ObjVer=1
 Ad=56
 SmH=2155
+RelStat=None
 DbH=84
 ]
 [
@@ -7964,6 +8340,8 @@ DvC=550
 ObjVer=1
 Ad=40
 SmH=2160
+RelStat=Release
+ProdLine=Residential AV
 DbH=85
 mC=1
 C1=1289
@@ -7989,6 +8367,7 @@ DvC=551
 ObjVer=1
 SlC=115
 Ad=01
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -7999,6 +8378,8 @@ DvC=752
 ObjVer=1
 Ad=10
 SmH=5110
+RelStat=Release
+ProdLine=Remotes and Gateways
 DbH=105
 ]
 [
@@ -8010,6 +8391,8 @@ DvC=567
 ObjVer=1
 Ad=01
 SmH=5131
+RelStat=Release
+ProdLine=2-Series
 DbH=6
 mC=2
 C1=1338
@@ -8037,6 +8420,8 @@ ObjVer=1
 SlC=120
 Ad=A
 SmH=5132
+RelStat=Release
+ProdLine=2-Series
 CmH=24
 DbH=107
 CsH=4
@@ -8063,6 +8448,8 @@ ObjVer=1
 SlC=120
 Ad=B
 SmH=5133
+RelStat=Release
+ProdLine=2-Series
 CmH=27
 ]
 [
@@ -8074,6 +8461,8 @@ DvC=752
 ObjVer=1
 Ad=20
 SmH=5134
+RelStat=Release
+ProdLine=Remotes and Gateways
 DbH=108
 CsH=76
 ]
@@ -8086,6 +8475,8 @@ DvC=133
 ObjVer=1
 Ad=D
 SmH=5234
+RelStat=Release
+ProdLine=2-Series
 DbH=109
 ]
 [
@@ -8097,6 +8488,8 @@ DvC=133
 ObjVer=1
 Ad=C
 SmH=5236
+RelStat=Release
+ProdLine=2-Series
 DbH=110
 ]
 [
@@ -8108,6 +8501,8 @@ DvC=133
 ObjVer=1
 Ad=C
 SmH=5245
+RelStat=Release
+ProdLine=2-Series
 DbH=111
 ]
 [
@@ -8119,6 +8514,8 @@ DvC=133
 ObjVer=1
 Ad=C
 SmH=5247
+RelStat=Release
+ProdLine=2-Series
 DbH=112
 ]
 [
@@ -8130,6 +8527,8 @@ DvC=200
 ObjVer=1
 Ad=51
 SmH=5249
+RelStat=Release
+ProdLine=2-Series,3-Series
 DbH=113
 CsH=38
 EtH=4
@@ -8157,6 +8556,8 @@ DvC=356
 ObjVer=1
 SlC=80
 Ad=01
+RelStat=Release
+ProdLine=2-Series
 ]
 [
 ObjTp=Dv
@@ -8167,6 +8568,8 @@ DvC=200
 ObjVer=1
 Ad=52
 SmH=5250
+RelStat=Release
+ProdLine=2-Series,3-Series
 DbH=114
 CsH=77
 EtH=5
@@ -8194,6 +8597,8 @@ DvC=356
 ObjVer=1
 SlC=80
 Ad=01
+RelStat=Release
+ProdLine=2-Series
 ]
 [
 ObjTp=Dv
@@ -8204,6 +8609,8 @@ DvC=200
 ObjVer=1
 Ad=53
 SmH=5251
+RelStat=Release
+ProdLine=2-Series,3-Series
 DbH=115
 CsH=78
 EtH=6
@@ -8231,6 +8638,8 @@ DvC=356
 ObjVer=1
 SlC=80
 Ad=01
+RelStat=Release
+ProdLine=2-Series
 ]
 [
 ObjTp=Dv
@@ -8241,6 +8650,8 @@ DvC=200
 ObjVer=1
 Ad=5A
 SmH=5252
+RelStat=Release
+ProdLine=2-Series,3-Series
 DbH=116
 CsH=79
 EtH=7
@@ -8268,6 +8679,8 @@ DvC=356
 ObjVer=1
 SlC=80
 Ad=01
+RelStat=Release
+ProdLine=2-Series
 ]
 [
 ObjTp=Dv
@@ -8278,6 +8691,8 @@ DvC=200
 ObjVer=1
 Ad=5B
 SmH=5253
+RelStat=Release
+ProdLine=2-Series,3-Series
 DbH=117
 CsH=80
 EtH=8
@@ -8305,6 +8720,8 @@ DvC=356
 ObjVer=1
 SlC=80
 Ad=01
+RelStat=Release
+ProdLine=2-Series
 ]
 [
 ObjTp=Dv
@@ -8315,6 +8732,8 @@ DvC=133
 ObjVer=1
 Ad=C
 SmH=5248
+RelStat=Release
+ProdLine=2-Series
 DbH=118
 ]
 [
@@ -8326,6 +8745,8 @@ DvC=18
 ObjVer=1
 Ad=24
 SmH=131
+RelStat=Release
+ProdLine=Remotes and Gateways
 DbH=119
 CsH=83
 mC=255
@@ -8796,6 +9217,7 @@ DvC=12
 ObjVer=1
 Ad=30
 SmH=5255
+RelStat=None
 DbH=120
 CsH=81
 ]
@@ -8807,6 +9229,7 @@ PrH=1412
 DvC=424
 ObjVer=1
 Ad=31
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -8816,6 +9239,7 @@ PrH=1413
 DvC=424
 ObjVer=1
 Ad=32
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -8825,6 +9249,7 @@ PrH=1414
 DvC=424
 ObjVer=1
 Ad=33
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -8834,6 +9259,7 @@ PrH=1415
 DvC=424
 ObjVer=1
 Ad=34
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -8843,6 +9269,7 @@ PrH=1416
 DvC=424
 ObjVer=1
 Ad=35
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -8852,6 +9279,7 @@ PrH=1417
 DvC=424
 ObjVer=1
 Ad=36
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -8861,6 +9289,7 @@ PrH=1418
 DvC=424
 ObjVer=1
 Ad=37
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -8870,6 +9299,7 @@ PrH=1419
 DvC=424
 ObjVer=1
 Ad=38
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -8879,6 +9309,7 @@ PrH=1420
 DvC=424
 ObjVer=1
 Ad=39
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -8888,6 +9319,7 @@ PrH=1421
 DvC=424
 ObjVer=1
 Ad=3A
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -8897,6 +9329,7 @@ PrH=1422
 DvC=424
 ObjVer=1
 Ad=3B
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -8906,6 +9339,7 @@ PrH=1423
 DvC=424
 ObjVer=1
 Ad=3C
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -8915,6 +9349,7 @@ PrH=1424
 DvC=424
 ObjVer=1
 Ad=3D
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -8924,6 +9359,7 @@ PrH=1425
 DvC=424
 ObjVer=1
 Ad=3E
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -8933,6 +9369,7 @@ PrH=1426
 DvC=424
 ObjVer=1
 Ad=3F
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -8943,6 +9380,8 @@ DvC=133
 ObjVer=1
 Ad=C
 SmH=5353
+RelStat=Release
+ProdLine=2-Series
 DbH=121
 ]
 [
@@ -8954,6 +9393,8 @@ DvC=18
 ObjVer=1
 Ad=21
 SmH=5412
+RelStat=Release
+ProdLine=Remotes and Gateways
 DbH=122
 CsH=82
 mC=255
@@ -9424,6 +9865,7 @@ DvC=12
 ObjVer=1
 Ad=50
 SmH=5413
+RelStat=None
 DbH=123
 CsH=84
 ]
@@ -9435,6 +9877,7 @@ PrH=2005
 DvC=424
 ObjVer=1
 Ad=51
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -9444,6 +9887,7 @@ PrH=2006
 DvC=424
 ObjVer=1
 Ad=52
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -9453,6 +9897,7 @@ PrH=2007
 DvC=424
 ObjVer=1
 Ad=53
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -9462,6 +9907,7 @@ PrH=2008
 DvC=424
 ObjVer=1
 Ad=54
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -9471,6 +9917,7 @@ PrH=2009
 DvC=424
 ObjVer=1
 Ad=55
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -9480,6 +9927,7 @@ PrH=2010
 DvC=424
 ObjVer=1
 Ad=56
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -9489,6 +9937,7 @@ PrH=2011
 DvC=424
 ObjVer=1
 Ad=57
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -9498,6 +9947,7 @@ PrH=2012
 DvC=424
 ObjVer=1
 Ad=58
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -9507,6 +9957,7 @@ PrH=2013
 DvC=424
 ObjVer=1
 Ad=59
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -9516,6 +9967,7 @@ PrH=2014
 DvC=424
 ObjVer=1
 Ad=5A
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -9525,6 +9977,7 @@ PrH=2015
 DvC=424
 ObjVer=1
 Ad=5B
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -9534,6 +9987,7 @@ PrH=2016
 DvC=424
 ObjVer=1
 Ad=5C
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -9543,6 +9997,7 @@ PrH=2017
 DvC=424
 ObjVer=1
 Ad=5D
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -9552,6 +10007,7 @@ PrH=2018
 DvC=424
 ObjVer=1
 Ad=5E
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -9561,6 +10017,7 @@ PrH=2019
 DvC=424
 ObjVer=1
 Ad=5F
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -9571,6 +10028,7 @@ DvC=12
 ObjVer=1
 Ad=40
 SmH=5414
+RelStat=None
 DbH=124
 CsH=85
 ]
@@ -9582,6 +10040,7 @@ PrH=1701
 DvC=424
 ObjVer=1
 Ad=41
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -9591,6 +10050,7 @@ PrH=1702
 DvC=424
 ObjVer=1
 Ad=42
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -9600,6 +10060,7 @@ PrH=1703
 DvC=424
 ObjVer=1
 Ad=43
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -9609,6 +10070,7 @@ PrH=1704
 DvC=424
 ObjVer=1
 Ad=44
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -9618,6 +10080,7 @@ PrH=1705
 DvC=424
 ObjVer=1
 Ad=45
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -9627,6 +10090,7 @@ PrH=1706
 DvC=424
 ObjVer=1
 Ad=46
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -9636,6 +10100,7 @@ PrH=1707
 DvC=424
 ObjVer=1
 Ad=47
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -9645,6 +10110,7 @@ PrH=1708
 DvC=424
 ObjVer=1
 Ad=48
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -9654,6 +10120,7 @@ PrH=1709
 DvC=424
 ObjVer=1
 Ad=49
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -9663,6 +10130,7 @@ PrH=1710
 DvC=424
 ObjVer=1
 Ad=4A
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -9672,6 +10140,7 @@ PrH=1711
 DvC=424
 ObjVer=1
 Ad=4B
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -9681,6 +10150,7 @@ PrH=1712
 DvC=424
 ObjVer=1
 Ad=4C
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -9690,6 +10160,7 @@ PrH=1713
 DvC=424
 ObjVer=1
 Ad=4D
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -9699,6 +10170,7 @@ PrH=1714
 DvC=424
 ObjVer=1
 Ad=4E
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -9708,6 +10180,7 @@ PrH=1715
 DvC=424
 ObjVer=1
 Ad=4F
+RelStat=None
 ]
 [
 ObjTp=Dv
@@ -9718,6 +10191,8 @@ DvC=18
 ObjVer=1
 Ad=22
 SmH=94
+RelStat=Release
+ProdLine=Remotes and Gateways
 DbH=125
 CsH=86
 mC=255
@@ -10188,6 +10663,8 @@ DvC=133
 ObjVer=1
 Ad=C
 SmH=1176
+RelStat=Release
+ProdLine=2-Series
 DbH=126
 ]
 [
@@ -10199,6 +10676,8 @@ DvC=133
 ObjVer=1
 Ad=B
 SmH=5415
+RelStat=Release
+ProdLine=2-Series
 DbH=127
 ]
 [
@@ -10210,6 +10689,8 @@ DvC=133
 ObjVer=1
 Ad=C
 SmH=5634
+RelStat=Release
+ProdLine=2-Series
 DbH=128
 ]
 [
@@ -10221,6 +10702,8 @@ DvC=133
 ObjVer=1
 Ad=C
 SmH=5635
+RelStat=Release
+ProdLine=2-Series
 DbH=129
 ]
 [
@@ -10232,6 +10715,8 @@ DvC=200
 ObjVer=1
 Ad=10
 SmH=732
+RelStat=Release
+ProdLine=2-Series,3-Series
 DbH=130
 CsH=87
 EtH=9
@@ -10259,6 +10744,8 @@ DvC=356
 ObjVer=1
 SlC=80
 Ad=01
+RelStat=Release
+ProdLine=2-Series
 ]
 [
 ObjTp=Dv
@@ -10269,6 +10756,8 @@ DvC=1150
 ObjVer=1
 Ad=61
 SmH=1234
+RelStat=Release
+ProdLine=Remotes and Gateways
 DbH=131
 CsH=93
 mC=18
@@ -10320,6 +10809,8 @@ DvC=3212
 ObjVer=1
 Ad=03
 SmH=1649
+RelStat=Release
+ProdLine=Remotes and Gateways
 DbH=132
 mC=254
 C1=2207
@@ -10599,6 +11090,7 @@ ObjVer=1
 SlC=338
 Ad=01
 SmH=1650
+RelStat=Release
 ]
 [
 ObjTp=Dv
@@ -10773,6 +11265,8 @@ DvC=3214
 ObjVer=1
 Ad=03
 SmH=1651
+RelStat=Release
+ProdLine=Remotes and Gateways
 DbH=133
 CsH=88
 ]
@@ -10785,6 +11279,8 @@ DvC=3214
 ObjVer=1
 Ad=04
 SmH=5840
+RelStat=Release
+ProdLine=Remotes and Gateways
 DbH=134
 CsH=89
 ]
@@ -10797,6 +11293,8 @@ DvC=3214
 ObjVer=1
 Ad=05
 SmH=5841
+RelStat=Release
+ProdLine=Remotes and Gateways
 DbH=135
 CsH=90
 ]
@@ -10809,6 +11307,8 @@ DvC=3220
 ObjVer=1
 Ad=06
 SmH=5855
+RelStat=Release
+ProdLine=Remotes and Gateways
 DbH=142
 CsH=97
 ]
@@ -10821,6 +11321,8 @@ DvC=3220
 ObjVer=1
 Ad=07
 SmH=5623
+RelStat=Release
+ProdLine=Remotes and Gateways
 DbH=136
 CsH=92
 ]
@@ -10833,6 +11335,8 @@ DvC=3220
 ObjVer=1
 Ad=08
 SmH=5626
+RelStat=Release
+ProdLine=Remotes and Gateways
 DbH=138
 CsH=91
 ]
@@ -10845,6 +11349,8 @@ DvC=3220
 ObjVer=1
 Ad=09
 SmH=5629
+RelStat=Release
+ProdLine=Remotes and Gateways
 DbH=139
 CsH=94
 ]
@@ -10857,6 +11363,8 @@ DvC=3220
 ObjVer=1
 Ad=10
 SmH=5853
+RelStat=Release
+ProdLine=Remotes and Gateways
 DbH=140
 CsH=95
 ]
@@ -10869,6 +11377,8 @@ DvC=3220
 ObjVer=1
 Ad=11
 SmH=5854
+RelStat=Release
+ProdLine=Remotes and Gateways
 DbH=141
 CsH=96
 ]
@@ -10881,6 +11391,8 @@ DvC=3220
 ObjVer=1
 Ad=12
 SmH=5856
+RelStat=Release
+ProdLine=Remotes and Gateways
 DbH=143
 CsH=98
 ]
@@ -10893,6 +11405,8 @@ DvC=602
 ObjVer=1
 Ad=A1
 SmH=5863
+RelStat=Release
+ProdLine=Crestron Mobile
 DbH=137
 CsH=99
 EtH=10
@@ -10906,6 +11420,8 @@ DvC=602
 ObjVer=1
 Ad=A0
 SmH=5864
+RelStat=Release
+ProdLine=Crestron Mobile
 DbH=144
 CsH=100
 EtH=11
@@ -10919,6 +11435,8 @@ DvC=3214
 ObjVer=1
 Ad=13
 SmH=1242
+RelStat=Release
+ProdLine=Remotes and Gateways
 DbH=145
 CsH=101
 ]
@@ -10931,6 +11449,8 @@ DvC=3214
 ObjVer=1
 Ad=14
 SmH=4307
+RelStat=Release
+ProdLine=Remotes and Gateways
 DbH=146
 CsH=102
 ]
@@ -10943,6 +11463,8 @@ DvC=1179
 ObjVer=1
 Ad=61
 SmH=4308
+RelStat=Release
+ProdLine=Remotes and Gateways
 DbH=147
 CsH=103
 EtH=12
@@ -11007,6 +11529,8 @@ DvC=133
 ObjVer=1
 Ad=A
 SmH=4309
+RelStat=Release
+ProdLine=2-Series
 DbH=148
 ]
 [
@@ -13127,6 +13651,36 @@ Nm2=\
 Sx2=0
 Sy2=0
 Mx2=0
+]
+[
+ObjTp=Bw
+H=2
+Lx=0
+Ly=317
+Rx=953
+Ry=634
+Xm=0
+Ym=607
+SH=4970
+Z=100
+P=1535
+Ht=1
+Hi=70
+]
+[
+ObjTp=Bw
+H=2
+Lx=0
+Ly=0
+Rx=953
+Ry=317
+Xm=-1
+Ym=-1
+SH=151
+Z=100
+P=13818
+Ht=4
+Hi=578
 ]
 [
 ObjTp=Et
@@ -24575,10 +25129,10 @@ O571=26729
 O572=26730
 O573=26731
 O574=26732
-O575=26733
-O576=26734
-O577=26735
-O578=26736
+O575=10809
+O576=10826
+O577=10828
+O578=10832
 O581=26737
 O582=26738
 O583=26739
@@ -180587,20 +181141,20 @@ I53=26152
 I54=26153
 I55=26154
 I56=26155
-I57=26156
+I57=10828
 I58=26157
 I59=26158
-I60=26159
+I60=10826
 I61=26160
 I62=26161
-I63=26162
+I63=10809
 I64=26163
 I65=26164
 I66=26165
 I67=26166
 I68=26167
 I69=26168
-I70=26169
+I70=10832
 I71=26170
 I72=26171
 I73=26172
@@ -285345,6 +285899,11 @@ Nm=STX1700-C_press152
 ]
 [
 ObjTp=Sg
+H=10809
+Nm=Press575
+]
+[
+ObjTp=Sg
 H=10810
 Nm=area2_rcvr_menu
 ]
@@ -285425,8 +285984,18 @@ Nm=STX1700-C_press165
 ]
 [
 ObjTp=Sg
+H=10826
+Nm=Press576
+]
+[
+ObjTp=Sg
 H=10827
 Nm=STX1700-C_press166
+]
+[
+ObjTp=Sg
+H=10828
+Nm=Press577
 ]
 [
 ObjTp=Sg
@@ -285442,6 +286011,11 @@ Nm=STX1700-C_press167
 ObjTp=Sg
 H=10831
 Nm=area31_mute
+]
+[
+ObjTp=Sg
+H=10832
+Nm=Press578
 ]
 [
 ObjTp=Sg
@@ -366573,11 +367147,6 @@ Nm=//area16_rcvr_mode_l7_music
 ]
 [
 ObjTp=Sg
-H=26156
-Nm=//area16_rcvr_mode_party
-]
-[
-ObjTp=Sg
 H=26157
 Nm=//area16_rcvr_mode_2ch
 ]
@@ -366588,11 +367157,6 @@ Nm=//area16_rcvr_mode_mono_logic
 ]
 [
 ObjTp=Sg
-H=26159
-Nm=//area16_rcvr_mode_mono_surr
-]
-[
-ObjTp=Sg
 H=26160
 Nm=//area16_rcvr_mode_mono
 ]
@@ -366600,11 +367164,6 @@ Nm=//area16_rcvr_mode_mono
 ObjTp=Sg
 H=26161
 Nm=//area16_rcvr_mode_pl
-]
-[
-ObjTp=Sg
-H=26162
-Nm=//area16_rcvr_mode_plii
 ]
 [
 ObjTp=Sg
@@ -366635,11 +367194,6 @@ Nm=//area16_rcvr_mode_5.1_l7_film
 ObjTp=Sg
 H=26168
 Nm=//area16_rcvr_mode_5.1_l7_tv
-]
-[
-ObjTp=Sg
-H=26169
-Nm=//area16_rcvr_mode_5.1_l7_music
 ]
 [
 ObjTp=Sg
