@@ -1,0 +1,460 @@
+ SYSTEM LOG:
+  1. Notice: nk.exe # 16:23:28  1-29-2013  # Power On
+  2. Notice: nk.exe # 16:23:28  1-29-2013  # System startup: CP3 [v1.005.0015 (Sep 14 2012) #008E7E1D]
+  3. Notice: ConsoleServiceCE.exe # 16:23:34  1-29-2013  # Got Security Flag: 0
+  4. Notice: ConsoleServiceCE.exe # 16:23:43  1-29-2013  # CTP Connection from: 192.168.1.135 
+  5. Warning: TLDM.exe # 16:23:47  1-29-2013  # Bypassing Logic Start...
+  6. Notice: ConsoleServiceCE.exe # 16:24:21  1-29-2013  # USB Connection has been made.
+  7. Error: LogicEngine.exe [App 1] # 16:25:48  1-29-2013  # Cannot register Slot-02.IP-ID-52, there is no IP Table Entry for this device.
+  8. Error: splusmanagerapp.exe [App 1] # 16:25:52  1-29-2013  # Module S-4.2.2.11.12:S-4 : Kaleidescape_OSD_Processor_v8_2_0 at line 127: Overflow. Capacity = 10. Length = 23
+  9. Error: splusmanagerapp.exe [App 1] # 16:25:52  1-29-2013  # Module S-4.2.2.12.12:S-4 : Kaleidescape_OSD_Processor_v8_2_0 at line 127: Overflow. Capacity = 10. Length = 23
+ 10. Error: splusmanagerapp.exe [App 1] # 16:25:52  1-29-2013  # Module S-4.3.6.4.12:S-4 : Kaleidescape_OSD_Processor_v8_2_0 at line 127: Overflow. Capacity = 10. Length = 22
+ 11. Error: splusmanagerapp.exe [App 1] # 16:25:56  1-29-2013  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+ 12. Error: splusmanagerapp.exe [App 1] # 16:25:57  1-29-2013  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+ 13. Error: splusmanagerapp.exe [App 1] # 16:25:58  1-29-2013  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+ 14. Error: splusmanagerapp.exe [App 1] # 16:25:58  1-29-2013  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+ 15. Error: splusmanagerapp.exe [App 1] # 16:25:58  1-29-2013  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+ 16. Error: splusmanagerapp.exe [App 1] # 16:25:58  1-29-2013  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+ 17. Error: splusmanagerapp.exe [App 1] # 16:25:58  1-29-2013  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+ 18. Error: splusmanagerapp.exe [App 1] # 16:25:58  1-29-2013  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+ 19. Error: splusmanagerapp.exe [App 1] # 16:25:58  1-29-2013  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+ 20. Error: splusmanagerapp.exe [App 1] # 16:25:58  1-29-2013  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+ 21. Error: splusmanagerapp.exe [App 1] # 16:25:58  1-29-2013  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+ 22. Error: splusmanagerapp.exe [App 1] # 16:25:58  1-29-2013  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+ 23. Error: splusmanagerapp.exe [App 1] # 16:25:58  1-29-2013  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+ 24. Error: splusmanagerapp.exe [App 1] # 16:25:58  1-29-2013  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+ 25. Error: splusmanagerapp.exe [App 1] # 16:25:58  1-29-2013  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+ 26. Error: splusmanagerapp.exe [App 1] # 16:25:58  1-29-2013  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+ 27. Error: splusmanagerapp.exe [App 1] # 16:25:58  1-29-2013  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+ 28. Error: splusmanagerapp.exe [App 1] # 16:25:58  1-29-2013  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+ 29. Error: splusmanagerapp.exe [App 1] # 16:25:58  1-29-2013  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+ 30. Error: splusmanagerapp.exe [App 1] # 16:25:58  1-29-2013  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+ 31. Error: splusmanagerapp.exe [App 1] # 16:25:58  1-29-2013  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+ 32. Error: splusmanagerapp.exe [App 1] # 16:25:58  1-29-2013  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+ 33. Error: splusmanagerapp.exe [App 1] # 16:25:58  1-29-2013  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+ 34. Error: splusmanagerapp.exe [App 1] # 16:25:58  1-29-2013  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+ 35. Notice: LogicEngine.exe # 16:26:04  1-29-2013  # **Program 1 Started**
+ 36. Error: LogicEngine.exe [App 1] # 16:26:04  1-29-2013  # Message from device Slot-01.ID-2F: HEAT setpoint input '0' out of range
+ 37. Error: LogicEngine.exe [App 1] # 16:26:04  1-29-2013  # Message from device Slot-01.ID-2E: HEAT setpoint input '0' out of range
+ 38. Error: LogicEngine.exe [App 1] # 16:26:05  1-29-2013  # Message from device Slot-01.ID-2D: HEAT setpoint input '0' out of range
+ 39. Error: LogicEngine.exe [App 1] # 16:26:05  1-29-2013  # Message from device Slot-01.ID-2C: HEAT setpoint input '0' out of range
+ 40. Error: LogicEngine.exe [App 1] # 16:26:05  1-29-2013  # Message from device Slot-01.ID-2B: HEAT setpoint input '0' out of range
+ 41. Error: LogicEngine.exe [App 1] # 16:26:05  1-29-2013  # Message from device Slot-01.ID-2A: HEAT setpoint input '0' out of range
+ 42. Error: LogicEngine.exe [App 1] # 16:26:05  1-29-2013  # Message from device Slot-01.ID-29: HEAT setpoint input '0' out of range
+ 43. Error: LogicEngine.exe [App 1] # 16:26:05  1-29-2013  # Message from device Slot-01.ID-28: HEAT setpoint input '0' out of range
+ 44. Error: LogicEngine.exe [App 1] # 16:26:05  1-29-2013  # Message from device Slot-01.ID-27: HEAT setpoint input '0' out of range
+ 45. Error: LogicEngine.exe [App 1] # 16:26:05  1-29-2013  # Message from device Slot-01.ID-26: HEAT setpoint input '0' out of range
+ 46. Error: LogicEngine.exe [App 1] # 16:26:05  1-29-2013  # Message from device Slot-01.ID-25: HEAT setpoint input '0' out of range
+ 47. Error: LogicEngine.exe [App 1] # 16:26:05  1-29-2013  # Message from device Slot-01.ID-2F: COOL setpoint input '0' out of range
+ 48. Error: LogicEngine.exe [App 1] # 16:26:05  1-29-2013  # Message from device Slot-01.ID-2E: COOL setpoint input '0' out of range
+ 49. Error: LogicEngine.exe [App 1] # 16:26:05  1-29-2013  # Message from device Slot-01.ID-2D: COOL setpoint input '0' out of range
+ 50. Error: LogicEngine.exe [App 1] # 16:26:05  1-29-2013  # Message from device Slot-01.ID-2C: COOL setpoint input '0' out of range
+ 51. Error: LogicEngine.exe [App 1] # 16:26:05  1-29-2013  # Message from device Slot-01.ID-2B: COOL setpoint input '0' out of range
+ 52. Error: LogicEngine.exe [App 1] # 16:26:05  1-29-2013  # Message from device Slot-01.ID-2A: COOL setpoint input '0' out of range
+ 53. Error: LogicEngine.exe [App 1] # 16:26:05  1-29-2013  # Message from device Slot-01.ID-29: COOL setpoint input '0' out of range
+ 54. Error: LogicEngine.exe [App 1] # 16:26:05  1-29-2013  # Message from device Slot-01.ID-28: COOL setpoint input '0' out of range
+ 55. Error: LogicEngine.exe [App 1] # 16:26:05  1-29-2013  # Message from device Slot-01.ID-27: COOL setpoint input '0' out of range
+ 56. Error: LogicEngine.exe [App 1] # 16:26:05  1-29-2013  # Message from device Slot-01.ID-26: COOL setpoint input '0' out of range
+ 57. Error: LogicEngine.exe [App 1] # 16:26:05  1-29-2013  # Message from device Slot-01.ID-25: COOL setpoint input '0' out of range
+ 58. Error: LogicEngine.exe [App 1] # 16:26:05  1-29-2013  # Message from device Slot-01.ID-2F: AUTO setpoint input '0' out of range
+ 59. Error: LogicEngine.exe [App 1] # 16:26:05  1-29-2013  # Message from device Slot-01.ID-2E: AUTO setpoint input '0' out of range
+ 60. Error: LogicEngine.exe [App 1] # 16:26:05  1-29-2013  # Message from device Slot-01.ID-2D: AUTO setpoint input '0' out of range
+ 61. Error: LogicEngine.exe [App 1] # 16:26:05  1-29-2013  # Message from device Slot-01.ID-2C: AUTO setpoint input '0' out of range
+ 62. Error: LogicEngine.exe [App 1] # 16:26:05  1-29-2013  # Message from device Slot-01.ID-2B: AUTO setpoint input '0' out of range
+ 63. Error: LogicEngine.exe [App 1] # 16:26:05  1-29-2013  # Message from device Slot-01.ID-2A: AUTO setpoint input '0' out of range
+ 64. Error: LogicEngine.exe [App 1] # 16:26:05  1-29-2013  # Message from device Slot-01.ID-29: AUTO setpoint input '0' out of range
+ 65. Error: LogicEngine.exe [App 1] # 16:26:05  1-29-2013  # Message from device Slot-01.ID-28: AUTO setpoint input '0' out of range
+ 66. Error: LogicEngine.exe [App 1] # 16:26:05  1-29-2013  # Message from device Slot-01.ID-27: AUTO setpoint input '0' out of range
+ 67. Error: LogicEngine.exe [App 1] # 16:26:05  1-29-2013  # Message from device Slot-01.ID-26: AUTO setpoint input '0' out of range
+ 68. Error: LogicEngine.exe [App 1] # 16:26:05  1-29-2013  # Message from device Slot-01.ID-25: AUTO setpoint input '0' out of range
+ 69. Error: LogicEngine.exe [App 1] # 16:26:05  1-29-2013  # Message from device Slot-01.ID-2F: HUMIDITY setpoint input '0' out of range
+ 70. Error: LogicEngine.exe [App 1] # 16:26:05  1-29-2013  # Message from device Slot-01.ID-2E: HUMIDITY setpoint input '0' out of range
+ 71. Error: LogicEngine.exe [App 1] # 16:26:05  1-29-2013  # Message from device Slot-01.ID-2D: HUMIDITY setpoint input '0' out of range
+ 72. Error: LogicEngine.exe [App 1] # 16:26:05  1-29-2013  # Message from device Slot-01.ID-2C: HUMIDITY setpoint input '0' out of range
+ 73. Error: LogicEngine.exe [App 1] # 16:26:06  1-29-2013  # Message from device Slot-01.ID-2B: HUMIDITY setpoint input '0' out of range
+ 74. Error: LogicEngine.exe [App 1] # 16:26:06  1-29-2013  # Message from device Slot-01.ID-2A: HUMIDITY setpoint input '0' out of range
+ 75. Error: LogicEngine.exe [App 1] # 16:26:06  1-29-2013  # Message from device Slot-01.ID-29: HUMIDITY setpoint input '0' out of range
+ 76. Error: LogicEngine.exe [App 1] # 16:26:06  1-29-2013  # Message from device Slot-01.ID-28: HUMIDITY setpoint input '0' out of range
+ 77. Error: LogicEngine.exe [App 1] # 16:26:06  1-29-2013  # Message from device Slot-01.ID-27: HUMIDITY setpoint input '0' out of range
+ 78. Error: LogicEngine.exe [App 1] # 16:26:06  1-29-2013  # Message from device Slot-01.ID-26: HUMIDITY setpoint input '0' out of range
+ 79. Error: LogicEngine.exe [App 1] # 16:26:06  1-29-2013  # Message from device Slot-01.ID-25: HUMIDITY setpoint input '0' out of range
+ 80. Error: splusmanagerapp.exe [App 1] # 16:26:42  1-29-2013  # Module S-3.5.3 : MTROL_Area_Source_Mapping__2007_12_14 at line 149: In/Out Array accessed with index 0.  Using index 1
+ 81. Error: splusmanagerapp.exe [App 1] # 16:26:42  1-29-2013  # Module S-3.4.3 : MTROL_Area_Source_Mapping__2007_12_14 at line 149: In/Out Array accessed with index 0.  Using index 1
+ 82. Error: splusmanagerapp.exe [App 1] # 16:26:42  1-29-2013  # Module S-3.2.3 : MTROL_Area_Source_Mapping__2007_12_14 at line 149: In/Out Array accessed with index 0.  Using index 1
+ 83. Error: splusmanagerapp.exe [App 1] # 16:26:42  1-29-2013  # Module S-3.5.3 : MTROL_Area_Source_Mapping__2007_12_14 at line 150: In/Out Array accessed with index 0.  Using index 1
+ 84. Error: splusmanagerapp.exe [App 1] # 16:26:42  1-29-2013  # Module S-3.4.3 : MTROL_Area_Source_Mapping__2007_12_14 at line 150: In/Out Array accessed with index 0.  Using index 1
+ 85. Error: splusmanagerapp.exe [App 1] # 16:26:42  1-29-2013  # Module S-3.2.3 : MTROL_Area_Source_Mapping__2007_12_14 at line 150: In/Out Array accessed with index 0.  Using index 1
+ 86. Error: splusmanagerapp.exe [App 1] # 16:26:45  1-29-2013  # Module S-5.1.1.14 : Text_Update_64__2007_10_30 at line 173: In/Out Array index out of bounds.  Index: 72, Length: 65
+ 87. Error: splusmanagerapp.exe [App 1] # 16:26:45  1-29-2013  # Module S-5.1.1.14 : Text_Update_64__2007_10_30 at line 174: In/Out Array index out of bounds.  Index: 72, Length: 65
+ 88. Error: splusmanagerapp.exe [App 1] # 16:26:45  1-29-2013  # Module S-5.1.1.14 : Text_Update_64__2007_10_30 at line 175: Array out of bounds access
+ 89. Error: splusmanagerapp.exe [App 1] # 16:27:41  1-29-2013  # Module S-4.2.1.3.8:S-21.7 : C2N_TXM_Guide_Engine_v2_0 at line 1147: Buffer Input overflow. New = 5234, Max = 5000
+ 90. Error: splusmanagerapp.exe [App 1] # 16:27:41  1-29-2013  # Module S-4.2.1.3.8:S-21.7 : C2N_TXM_Guide_Engine_v2_0 at line 1147: Buffer Input overflow. New = 5211, Max = 5000
+ 91. Error: splusmanagerapp.exe [App 1] # 16:27:41  1-29-2013  # Module S-4.2.1.3.8:S-21.7 : C2N_TXM_Guide_Engine_v2_0 at line 1147: Buffer Input overflow. New = 5171, Max = 5000
+ 92. Error: splusmanagerapp.exe [App 1] # 16:27:41  1-29-2013  # Module S-4.2.1.3.8:S-21.7 : C2N_TXM_Guide_Engine_v2_0 at line 1147: Buffer Input overflow. New = 5234, Max = 5000
+ 93. Error: splusmanagerapp.exe [App 1] # 16:27:41  1-29-2013  # Module S-4.2.1.3.8:S-21.7 : C2N_TXM_Guide_Engine_v2_0 at line 1147: Buffer Input overflow. New = 5211, Max = 5000
+ 94. Error: splusmanagerapp.exe [App 1] # 16:27:41  1-29-2013  # Module S-4.2.1.3.8:S-21.7 : C2N_TXM_Guide_Engine_v2_0 at line 1147: Buffer Input overflow. New = 5232, Max = 5000
+ 95. Error: splusmanagerapp.exe [App 1] # 16:27:41  1-29-2013  # Module S-4.2.1.3.8:S-21.7 : C2N_TXM_Guide_Engine_v2_0 at line 1147: Buffer Input overflow. New = 5222, Max = 5000
+ 96. Error: splusmanagerapp.exe [App 1] # 16:27:41  1-29-2013  # Module S-4.2.1.3.8:S-21.7 : C2N_TXM_Guide_Engine_v2_0 at line 1147: Buffer Input overflow. New = 5176, Max = 5000
+ 97. Error: splusmanagerapp.exe [App 1] # 16:27:41  1-29-2013  # Module S-4.2.1.3.8:S-21.7 : C2N_TXM_Guide_Engine_v2_0 at line 1147: Buffer Input overflow. New = 5176, Max = 5000
+ 98. Error: splusmanagerapp.exe [App 1] # 16:27:41  1-29-2013  # Module S-4.2.1.3.8:S-21.7 : C2N_TXM_Guide_Engine_v2_0 at line 1147: Buffer Input overflow. New = 5194, Max = 5000
+ 99. Error: splusmanagerapp.exe [App 1] # 16:27:41  1-29-2013  # Module S-4.2.1.3.8:S-21.7 : C2N_TXM_Guide_Engine_v2_0 at line 1147: Buffer Input overflow. New = 5176, Max = 5000
+100. Error: splusmanagerapp.exe [App 1] # 16:27:41  1-29-2013  # Module S-4.2.1.3.8:S-21.7 : C2N_TXM_Guide_Engine_v2_0 at line 1147: Buffer Input overflow. New = 5194, Max = 5000
+101. Error: splusmanagerapp.exe [App 1] # 16:27:41  1-29-2013  # Module S-4.2.1.3.8:S-21.7 : C2N_TXM_Guide_Engine_v2_0 at line 1147: Buffer Input overflow. New = 5176, Max = 5000
+102. Error: splusmanagerapp.exe [App 1] # 16:27:41  1-29-2013  # Module S-4.2.1.3.8:S-21.7 : C2N_TXM_Guide_Engine_v2_0 at line 1147: Buffer Input overflow. New = 5182, Max = 5000
+103. Error: splusmanagerapp.exe [App 1] # 16:27:41  1-29-2013  # Module S-4.2.1.3.8:S-21.7 : C2N_TXM_Guide_Engine_v2_0 at line 1147: Buffer Input overflow. New = 5194, Max = 5000
+104. Error: splusmanagerapp.exe [App 1] # 16:27:41  1-29-2013  # Module S-4.2.1.3.8:S-21.7 : C2N_TXM_Guide_Engine_v2_0 at line 1147: Buffer Input overflow. New = 5012, Max = 5000
+105. Warning: LogicEngine.exe [App 1] # 20:16:39  1-29-2013  # Cannot set permanent string at input 1 from symbol S-4.2.1.4.8:S-14.6 to "  ".  Maximum Length = 1, New Length would be 2.  Truncating string to 1 characters.
+106. Notice: ConsoleServiceCE.exe # 22:36:00  1-29-2013  # TELNET Connection from: 84.44.64.184 
+107. Notice: ConsoleServiceCE.exe # 22:36:00  1-29-2013  # TELNET Connection from: 78.187.138.191 
+108. Notice: ConsoleServiceCE.exe # 22:36:05  1-29-2013  # TELNET Connection from: 110.187.226.184 
+109. Notice: ConsoleServiceCE.exe # 22:49:45  1-29-2013  # TELNET Connection from: 84.44.64.184 
+110. Notice: ConsoleServiceCE.exe # 22:51:05  1-29-2013  # TELNET Connection from: 78.187.138.191 
+111. Notice: ConsoleServiceCE.exe # 23:10:46  1-29-2013  # TELNET Connection from: 107.211.153.41 
+112. Notice: ConsoleServiceCE.exe # 00:22:00  1-30-2013  # TELNET Connection from: 58.18.234.77 
+113. Notice: ConsoleServiceCE.exe # 01:49:12  1-30-2013  # TELNET Connection from: 119.247.229.72 
+114. Notice: ConsoleServiceCE.exe # 01:49:13  1-30-2013  # TELNET Connection from: 58.177.119.121 
+115. Notice: ConsoleServiceCE.exe # 01:49:23  1-30-2013  # TELNET Connection from: 119.247.229.72 
+116. Notice: ConsoleServiceCE.exe # 02:03:05  1-30-2013  # TELNET Connection from: 58.177.119.121 
+117. Notice: ConsoleServiceCE.exe # 04:18:53  1-30-2013  # TELNET Connection from: 115.108.232.241 
+118. Notice: ConsoleServiceCE.exe # 04:27:40  1-30-2013  # TELNET Connection from: 115.108.232.241 
+119. Notice: ConsoleServiceCE.exe # 05:09:14  1-30-2013  # TELNET Connection from: 175.161.223.1 
+120. Notice: ConsoleServiceCE.exe # 05:09:15  1-30-2013  # TELNET Connection from: 124.92.48.54 
+121. Notice: ConsoleServiceCE.exe # 05:09:17  1-30-2013  # TELNET Connection from: 210.6.116.31 
+122. Notice: ConsoleServiceCE.exe # 05:09:17  1-30-2013  # TELNET Connection from: 175.161.223.1 
+123. Notice: ConsoleServiceCE.exe # 05:09:19  1-30-2013  # TELNET Connection from: 124.92.48.54 
+124. Notice: ConsoleServiceCE.exe # 05:09:31  1-30-2013  # TELNET Connection from: 61.238.9.240 
+125. Notice: ConsoleServiceCE.exe # 05:25:52  1-30-2013  # TELNET Connection from: 210.6.116.31 
+126. Notice: ConsoleServiceCE.exe # 05:34:40  1-30-2013  # TELNET Connection from: 61.238.9.240 
+127. Notice: ConsoleServiceCE.exe # 07:36:54  1-30-2013  # TELNET Connection from: 99.116.242.99 
+128. Notice: ConsoleServiceCE.exe # 09:46:25  1-30-2013  # TELNET Connection from: 80.179.98.115 
+129. Notice: ConsoleServiceCE.exe # 09:49:13  1-30-2013  # TELNET Connection from: 78.188.28.146 
+130. Notice: ConsoleServiceCE.exe # 09:49:14  1-30-2013  # TELNET Connection from: 78.188.19.245 
+131. Notice: ConsoleServiceCE.exe # 09:49:15  1-30-2013  # TELNET Connection from: 180.118.192.15 
+132. Notice: ConsoleServiceCE.exe # 09:49:21  1-30-2013  # TELNET Connection from: 91.219.120.145 
+133. Notice: ConsoleServiceCE.exe # 09:54:28  1-30-2013  # TELNET Connection from: 91.219.120.145 
+134. Notice: ConsoleServiceCE.exe # 09:56:33  1-30-2013  # TELNET Connection from: 91.219.120.145 
+135. Warning: LogicEngine.exe [App 1] # 09:59:06  1-30-2013  # Cannot set permanent string at input 1 from symbol S-4.2.1.4.8:S-14.6 to "  ".  Maximum Length = 1, New Length would be 2.  Truncating string to 1 characters.
+136. Notice: ConsoleServiceCE.exe # 10:00:13  1-30-2013  # TELNET Connection from: 80.179.98.115 
+137. Notice: ConsoleServiceCE.exe # 10:03:01  1-30-2013  # TELNET Connection from: 78.188.28.146 
+138. Notice: ConsoleServiceCE.exe # 10:03:46  1-30-2013  # TELNET Connection from: 78.188.19.245 
+139. Notice: ConsoleServiceCE.exe # 10:08:45  1-30-2013  # TELNET Connection from: 58.177.128.239 
+140. Notice: ConsoleServiceCE.exe # 10:22:38  1-30-2013  # TELNET Connection from: 58.177.128.239 
+141. Notice: ConsoleServiceCE.exe # 12:38:28  1-30-2013  # TELNET Connection from: 115.108.134.77 
+142. Notice: ConsoleServiceCE.exe # 12:47:09  1-30-2013  # TELNET Connection from: 115.108.134.77 
+143. Notice: ConsoleServiceCE.exe # 13:09:08  1-30-2013  # TELNET Connection from: 217.129.181.92 
+144. Notice: ConsoleServiceCE.exe # 13:16:30  1-30-2013  # TELNET Connection from: 217.129.181.92 
+145. Error: splusmanagerapp.exe [App 1] # 14:01:44  1-30-2013  # Module S-4.2.1.4.8:S-14.2 : Adagio_XM_Sirius_Now_Playing_Combiner_v1_0 at line 108: Array out of bounds access
+146. Notice: ConsoleServiceCE.exe # 14:51:53  1-30-2013  # TELNET Connection from: 201.83.119.139 
+147. Notice: ConsoleServiceCE.exe # 17:49:12  1-30-2013  # TELNET Connection from: 76.16.250.217 
+148. Notice: ConsoleServiceCE.exe # 17:49:15  1-30-2013  # TELNET Connection from: 107.2.133.171 
+149. Notice: ConsoleServiceCE.exe # 10:06:14  1-31-2013  # TELNET Connection from: 113.74.187.178 
+150. Notice: ConsoleServiceCE.exe # 10:07:36  1-31-2013  # TELNET Connection from: 113.74.187.178 
+151. Notice: CIPCommandProcessor.exe # 12:40:57  1-31-2013  # TCP Client  App 1 IP-ID54: Unable to connect to TCP server (192.168.1.54)
+152. Notice: CIPCommandProcessor.exe # 12:41:02  1-31-2013  # TCP Client  App 1 IP-ID54: Unable to connect to TCP server (192.168.1.54)
+153. Notice: CIPCommandProcessor.exe # 12:41:22  1-31-2013  # TCP Client  App 1 IP-ID53: Unable to connect to TCP server (192.168.1.53)
+154. Notice: CIPCommandProcessor.exe # 12:42:58  1-31-2013  # TCP Client  App 1 IP-ID53: Unable to connect to TCP server (192.168.1.53)
+155. Warning: splusmanagerapp.exe [App 1] # 12:47:21  1-31-2013  # Module S-4.2.1.4.8:S-29.26 : XM_Large_TP_GUI_Processor_v1_0_0 at line 465: UpdateInputValue: Could not get m_BufferReadyEvent
+156. Notice: CIPCommandProcessor.exe # 16:48:35  1-31-2013  # TCP Client  App 1 IP-ID51: Unable to connect to TCP server (192.168.1.51)
+157. Notice: CIPCommandProcessor.exe # 16:49:00  1-31-2013  # TCP Client  App 1 IP-ID51: Unable to connect to TCP server (192.168.1.51)
+158. Notice: CIPCommandProcessor.exe # 16:49:29  1-31-2013  # TCP Client  App 1 IP-ID51: Unable to connect to TCP server (192.168.1.51)
+159. Notice: CIPCommandProcessor.exe # 16:50:06  1-31-2013  # TCP Client  App 1 IP-ID51: Unable to connect to TCP server (192.168.1.51)
+160. Notice: CIPCommandProcessor.exe # 16:50:59  1-31-2013  # TCP Client  App 1 IP-ID51: Unable to connect to TCP server (192.168.1.51)
+161. Notice: CIPCommandProcessor.exe # 16:52:24  1-31-2013  # TCP Client  App 1 IP-ID51: Unable to connect to TCP server (192.168.1.51)
+162. Notice: CIPCommandProcessor.exe # 16:53:49  1-31-2013  # TCP Client  App 1 IP-ID51: Unable to connect to TCP server (192.168.1.51)
+163. Notice: CIPCommandProcessor.exe # 16:55:14  1-31-2013  # TCP Client  App 1 IP-ID51: Unable to connect to TCP server (192.168.1.51)
+164. Notice: CIPCommandProcessor.exe # 16:56:39  1-31-2013  # TCP Client  App 1 IP-ID51: Unable to connect to TCP server (192.168.1.51)
+165. Notice: CIPCommandProcessor.exe # 16:58:04  1-31-2013  # TCP Client  App 1 IP-ID51: Unable to connect to TCP server (192.168.1.51)
+166. Notice: CIPCommandProcessor.exe # 16:59:29  1-31-2013  # TCP Client  App 1 IP-ID51: Unable to connect to TCP server (192.168.1.51)
+167. Notice: CIPCommandProcessor.exe # 17:00:54  1-31-2013  # TCP Client  App 1 IP-ID51: Unable to connect to TCP server (192.168.1.51)
+168. Notice: CIPCommandProcessor.exe # 17:01:42  1-31-2013  # TCP Client  App 1 IP-ID53: Unable to connect to TCP server (192.168.1.53)
+169. Notice: CIPCommandProcessor.exe # 17:02:19  1-31-2013  # TCP Client  App 1 IP-ID51: Unable to connect to TCP server (192.168.1.51)
+170. Notice: CIPCommandProcessor.exe # 17:03:44  1-31-2013  # TCP Client  App 1 IP-ID51: Unable to connect to TCP server (192.168.1.51)
+171. Notice: CIPCommandProcessor.exe # 17:05:09  1-31-2013  # TCP Client  App 1 IP-ID51: Unable to connect to TCP server (192.168.1.51)
+172. Notice: CIPCommandProcessor.exe # 17:06:34  1-31-2013  # TCP Client  App 1 IP-ID51: Unable to connect to TCP server (192.168.1.51)
+173. Notice: CIPCommandProcessor.exe # 17:07:59  1-31-2013  # TCP Client  App 1 IP-ID51: Unable to connect to TCP server (192.168.1.51)
+174. Notice: CIPCommandProcessor.exe # 17:09:24  1-31-2013  # TCP Client  App 1 IP-ID51: Unable to connect to TCP server (192.168.1.51)
+175. Notice: CIPCommandProcessor.exe # 17:10:50  1-31-2013  # TCP Client  App 1 IP-ID51: Unable to connect to TCP server (192.168.1.51)
+176. Notice: CIPCommandProcessor.exe # 17:12:15  1-31-2013  # TCP Client  App 1 IP-ID51: Unable to connect to TCP server (192.168.1.51)
+177. Notice: ConsoleServiceCE.exe # 17:32:00  1-31-2013  # TELNET Connection from: 119.247.0.211 
+178. Notice: ConsoleServiceCE.exe # 17:32:05  1-31-2013  # TELNET Connection from: 123.202.78.138 
+179. Notice: ConsoleServiceCE.exe # 17:32:10  1-31-2013  # TELNET Connection from: 119.247.0.211 
+180. Notice: ConsoleServiceCE.exe # 17:48:36  1-31-2013  # TELNET Connection from: 123.202.78.138 
+181. Notice: ConsoleServiceCE.exe # 23:00:58  1-31-2013  # TELNET Connection from: 151.32.194.0 
+182. Warning: splusmanagerapp.exe [App 1] # 00:20:44  2-01-2013  # Module S-4.2.1.3.8:S-29.26 : XM_Large_TP_GUI_Processor_v1_0_0 at line 465: UpdateInputValue: Could not get m_BufferReadyEvent
+183. Notice: ConsoleServiceCE.exe # 01:05:23  2-01-2013  # TELNET Connection from: 197.162.46.241 
+184. Notice: ConsoleServiceCE.exe # 01:31:55  2-01-2013  # TELNET Connection from: 212.182.170.80 
+185. Notice: ConsoleServiceCE.exe # 01:31:56  2-01-2013  # TELNET Connection from: 71.232.245.89 
+186. Notice: ConsoleServiceCE.exe # 01:31:59  2-01-2013  # TELNET Connection from: 95.154.15.10 
+187. Notice: ConsoleServiceCE.exe # 01:32:39  2-01-2013  # TELNET Connection from: 83.69.38.161 
+188. Notice: ConsoleServiceCE.exe # 01:33:55  2-01-2013  # TELNET Connection from: 197.162.46.241 
+189. Notice: ConsoleServiceCE.exe # 01:39:04  2-01-2013  # TELNET Connection from: 71.232.245.89 
+190. Notice: ConsoleServiceCE.exe # 01:40:54  2-01-2013  # TELNET Connection from: 212.182.170.80 
+191. Notice: ConsoleServiceCE.exe # 01:41:06  2-01-2013  # TELNET Connection from: 95.154.15.10 
+192. Notice: ConsoleServiceCE.exe # 06:14:33  2-01-2013  # TELNET Connection from: 117.57.39.86 
+193. Notice: ConsoleServiceCE.exe # 07:19:32  2-01-2013  # TELNET Connection from: 116.224.100.132 
+194. Notice: ConsoleServiceCE.exe # 09:31:58  2-01-2013  # TELNET Connection from: 72.177.240.23 
+195. Notice: ConsoleServiceCE.exe # 09:32:00  2-01-2013  # TELNET Connection from: 70.181.234.141 
+196. Notice: ConsoleServiceCE.exe # 09:54:14  2-01-2013  # TELNET Connection from: 111.176.201.232 
+197. Notice: ConsoleServiceCE.exe # 09:56:33  2-01-2013  # TELNET Connection from: 123.203.130.76 
+198. Notice: ConsoleServiceCE.exe # 09:56:37  2-01-2013  # TELNET Connection from: 123.203.130.76 
+199. Notice: ConsoleServiceCE.exe # 10:01:43  2-01-2013  # TELNET Connection from: 110.201.93.35 
+200. Notice: ConsoleServiceCE.exe # 10:08:46  2-01-2013  # TELNET Connection from: 111.176.201.232 
+201. Notice: ConsoleServiceCE.exe # 12:26:11  2-01-2013  # TELNET Connection from: 121.245.209.42 
+202. Notice: ConsoleServiceCE.exe # 12:34:54  2-01-2013  # TELNET Connection from: 121.245.209.42 
+203. Notice: ConsoleServiceCE.exe # 16:57:26  2-01-2013  # TELNET Connection from: 23.24.110.20 
+204. Notice: ConsoleServiceCE.exe # 17:04:25  2-01-2013  # TELNET Connection from: 23.24.110.20 
+205. Notice: ConsoleServiceCE.exe # 17:56:25  2-01-2013  # TELNET Connection from: 74.89.199.152 
+206. Notice: ConsoleServiceCE.exe # 17:56:34  2-01-2013  # TELNET Connection from: 108.74.171.18 
+207. Notice: ConsoleServiceCE.exe # 18:03:27  2-01-2013  # TELNET Connection from: 74.89.199.152 
+208. Notice: ConsoleServiceCE.exe # 18:04:41  2-01-2013  # TELNET Connection from: 108.74.171.18 
+209. Notice: ConsoleServiceCE.exe # 18:17:28  2-01-2013  # TELNET Connection from: 216.137.0.197 
+210. Notice: ConsoleServiceCE.exe # 18:17:31  2-01-2013  # TELNET Connection from: 216.137.0.197 
+211. Notice: ConsoleServiceCE.exe # 19:04:35  2-01-2013  # TELNET Connection from: 61.92.92.173 
+212. Notice: ConsoleServiceCE.exe # 19:04:35  2-01-2013  # TELNET Connection from: 210.6.92.229 
+213. Notice: ConsoleServiceCE.exe # 19:04:35  2-01-2013  # TELNET Connection from: 27.28.200.47 
+214. Notice: ConsoleServiceCE.exe # 19:04:40  2-01-2013  # TELNET Connection from: 58.177.42.68 
+215. Notice: ConsoleServiceCE.exe # 19:04:45  2-01-2013  # TELNET Connection from: 210.6.92.229 
+216. Notice: ConsoleServiceCE.exe # 19:18:28  2-01-2013  # TELNET Connection from: 61.92.92.173 
+217. Notice: ConsoleServiceCE.exe # 19:18:32  2-01-2013  # TELNET Connection from: 27.28.200.47 
+218. Notice: ConsoleServiceCE.exe # 19:21:42  2-01-2013  # TELNET Connection from: 58.177.42.68 
+219. Notice: ConsoleServiceCE.exe # 19:22:37  2-01-2013  # TELNET Connection from: 59.127.145.48 
+220. Notice: ConsoleServiceCE.exe # 19:37:44  2-01-2013  # TELNET Connection from: 59.127.145.48 
+221. Notice: ConsoleServiceCE.exe # 23:56:41  2-01-2013  # TELNET Connection from: 75.50.209.141 
+222. Notice: ConsoleServiceCE.exe # 00:10:30  2-02-2013  # TELNET Connection from: 75.50.209.141 
+223. Notice: ConsoleServiceCE.exe # 01:04:19  2-02-2013  # TELNET Connection from: 117.216.16.183 
+224. Notice: ConsoleServiceCE.exe # 01:56:27  2-02-2013  # TELNET Connection from: 67.190.46.234 
+225. Notice: ConsoleServiceCE.exe # 02:04:32  2-02-2013  # TELNET Connection from: 206.248.158.174 
+226. Notice: ConsoleServiceCE.exe # 02:12:30  2-02-2013  # TELNET Connection from: 206.248.158.174 
+227. Notice: ConsoleServiceCE.exe # 03:02:05  2-02-2013  # TELNET Connection from: 93.103.31.46 
+228. Notice: ConsoleServiceCE.exe # 03:04:32  2-02-2013  # TELNET Connection from: 60.184.124.153 
+229. Notice: ConsoleServiceCE.exe # 03:04:34  2-02-2013  # TELNET Connection from: 88.251.64.249 
+230. Notice: ConsoleServiceCE.exe # 03:04:34  2-02-2013  # TELNET Connection from: 178.233.161.21 
+231. Notice: ConsoleServiceCE.exe # 03:04:40  2-02-2013  # TELNET Connection from: 95.6.82.90 
+232. Notice: ConsoleServiceCE.exe # 03:12:07  2-02-2013  # TELNET Connection from: 123.202.1.33 
+233. Notice: ConsoleServiceCE.exe # 03:12:09  2-02-2013  # TELNET Connection from: 62.233.131.164 
+234. Notice: ConsoleServiceCE.exe # 03:12:53  2-02-2013  # TELNET Connection from: 60.184.124.153 
+235. Notice: ConsoleServiceCE.exe # 03:18:19  2-02-2013  # TELNET Connection from: 88.251.64.249 
+236. Notice: ConsoleServiceCE.exe # 03:18:33  2-02-2013  # TELNET Connection from: 95.6.82.90 
+237. Notice: ConsoleServiceCE.exe # 03:19:32  2-02-2013  # TELNET Connection from: 95.6.82.90 
+238. Notice: ConsoleServiceCE.exe # 03:21:28  2-02-2013  # TELNET Connection from: 62.233.131.164 
+239. Notice: ConsoleServiceCE.exe # 03:29:12  2-02-2013  # TELNET Connection from: 123.202.1.33 
+240. Notice: ConsoleServiceCE.exe # 05:47:23  2-02-2013  # TELNET Connection from: 210.148.234.144 
+241. Notice: ConsoleServiceCE.exe # 05:47:23  2-02-2013  # TELNET Connection from: 210.148.234.144 
+242. Notice: ConsoleServiceCE.exe # 09:14:55  2-02-2013  # TELNET Connection from: 78.80.186.62 
+243. Notice: ConsoleServiceCE.exe # 09:51:04  2-02-2013  # TELNET Connection from: 78.80.186.62 
+244. Notice: ConsoleServiceCE.exe # 10:11:55  2-02-2013  # TELNET Connection from: 76.31.108.200 
+245. Notice: ConsoleServiceCE.exe # 10:21:06  2-02-2013  # TELNET Connection from: 46.72.204.177 
+246. Notice: ConsoleServiceCE.exe # 10:34:52  2-02-2013  # TELNET Connection from: 46.72.204.177 
+247. Notice: ConsoleServiceCE.exe # 11:10:42  2-02-2013  # TELNET Connection from: 46.197.239.9 
+248. Notice: ConsoleServiceCE.exe # 11:11:59  2-02-2013  # TELNET Connection from: 182.68.167.37 
+249. Notice: ConsoleServiceCE.exe # 11:12:02  2-02-2013  # TELNET Connection from: 74.88.126.52 
+250. Notice: ConsoleServiceCE.exe # 11:12:03  2-02-2013  # TELNET Connection from: 88.233.86.64 
+251. Notice: ConsoleServiceCE.exe # 11:24:38  2-02-2013  # TELNET Connection from: 46.197.239.9 
+252. Notice: ConsoleServiceCE.exe # 11:25:44  2-02-2013  # TELNET Connection from: 182.68.167.37 
+253. Notice: ConsoleServiceCE.exe # 11:32:49  2-02-2013  # TELNET Connection from: 61.92.222.211 
+254. Notice: ConsoleServiceCE.exe # 11:32:53  2-02-2013  # TELNET Connection from: 14.199.56.241 
+255. Notice: ConsoleServiceCE.exe # 11:33:06  2-02-2013  # TELNET Connection from: 14.199.56.241 
+256. Notice: ConsoleServiceCE.exe # 11:35:44  2-02-2013  # TELNET Connection from: 114.34.185.68 
+257. Notice: ConsoleServiceCE.exe # 11:46:11  2-02-2013  # TELNET Connection from: 114.34.185.68 
+258. Notice: ConsoleServiceCE.exe # 11:46:41  2-02-2013  # TELNET Connection from: 61.92.222.211 
+259. Notice: ConsoleServiceCE.exe # 12:45:09  2-02-2013  # TELNET Connection from: 59.120.214.224 
+260. Error: splusmanagerapp.exe [App 1] # 16:00:36  2-02-2013  # Module S-4.2.1.4.8:S-14.2 : Adagio_XM_Sirius_Now_Playing_Combiner_v1_0 at line 96: Array out of bounds access
+261. Error: LogicEngine.exe [App 1] # 18:02:17  2-02-2013  # Message from device Slot-01.ID-28: Sensor R1T type USE: 1,75489 Errors @ 75489
+262. Notice: ConsoleServiceCE.exe # 18:32:52  2-02-2013  # TELNET Connection from: 98.208.58.53 
+263. Notice: ConsoleServiceCE.exe # 18:36:45  2-02-2013  # TELNET Connection from: 190.100.116.26 
+264. Notice: ConsoleServiceCE.exe # 18:40:12  2-02-2013  # TELNET Connection from: 98.208.58.53 
+265. Notice: ConsoleServiceCE.exe # 18:50:39  2-02-2013  # TELNET Connection from: 190.100.116.26 
+266. Notice: ConsoleServiceCE.exe # 19:32:47  2-02-2013  # TELNET Connection from: 219.134.64.245 
+267. Notice: ConsoleServiceCE.exe # 19:32:47  2-02-2013  # TELNET Connection from: 77.47.79.106 
+268. Notice: ConsoleServiceCE.exe # 19:32:47  2-02-2013  # TELNET Connection from: 200.90.34.139 
+269. Notice: ConsoleServiceCE.exe # 19:32:54  2-02-2013  # TELNET Connection from: 180.107.54.54 
+270. Notice: ConsoleServiceCE.exe # 19:33:23  2-02-2013  # TELNET Connection from: 84.22.4.86 
+271. Notice: ConsoleServiceCE.exe # 19:33:29  2-02-2013  # TELNET Connection from: 119.211.2.236 
+272. Notice: ConsoleServiceCE.exe # 19:36:51  2-02-2013  # TELNET Connection from: 84.22.4.86 
+273. Notice: ConsoleServiceCE.exe # 19:38:26  2-02-2013  # TELNET Connection from: 119.211.2.236 
+274. Notice: ConsoleServiceCE.exe # 19:41:21  2-02-2013  # TELNET Connection from: 77.47.79.106 
+275. Notice: ConsoleServiceCE.exe # 20:18:20  2-02-2013  # TELNET Connection from: 42.2.201.118 
+276. Notice: ConsoleServiceCE.exe # 02:15:32  2-03-2013  # TELNET Connection from: 85.113.179.101 
+277. Notice: ConsoleServiceCE.exe # 05:00:23  2-03-2013  # TELNET Connection from: 117.39.32.21 
+278. Notice: ConsoleServiceCE.exe # 05:02:42  2-03-2013  # TELNET Connection from: 190.84.232.184 
+279. Notice: ConsoleServiceCE.exe # 05:10:44  2-03-2013  # TELNET Connection from: 190.84.232.184 
+280. Notice: ConsoleServiceCE.exe # 05:14:35  2-03-2013  # TELNET Connection from: 117.39.32.21 
+281. Notice: ConsoleServiceCE.exe # 05:15:04  2-03-2013  # TELNET Connection from: 61.239.128.64 
+282. Notice: ConsoleServiceCE.exe # 05:15:04  2-03-2013  # TELNET Connection from: 124.244.143.98 
+283. Notice: ConsoleServiceCE.exe # 05:15:05  2-03-2013  # TELNET Connection from: 123.202.218.59 
+284. Notice: ConsoleServiceCE.exe # 05:15:09  2-03-2013  # TELNET Connection from: 210.6.242.62 
+285. Notice: ConsoleServiceCE.exe # 05:15:14  2-03-2013  # TELNET Connection from: 61.92.27.197 
+286. Notice: ConsoleServiceCE.exe # 05:15:15  2-03-2013  # TELNET Connection from: 123.202.218.59 
+287. Notice: ConsoleServiceCE.exe # 05:15:16  2-03-2013  # TELNET Connection from: 61.92.27.197 
+288. Notice: ConsoleServiceCE.exe # 05:28:58  2-03-2013  # TELNET Connection from: 61.239.128.64 
+289. Notice: ConsoleServiceCE.exe # 05:28:58  2-03-2013  # TELNET Connection from: 124.244.143.98 
+290. Notice: ConsoleServiceCE.exe # 05:31:44  2-03-2013  # TELNET Connection from: 210.6.242.62 
+291. Notice: ConsoleServiceCE.exe # 07:45:33  2-03-2013  # TELNET Connection from: 117.206.16.12 
+292. Notice: ConsoleServiceCE.exe # 12:09:46  2-03-2013  # TELNET Connection from: 177.182.197.157 
+293. Notice: ConsoleServiceCE.exe # 13:13:55  2-03-2013  # TELNET Connection from: 189.192.193.31 
+294. Notice: ConsoleServiceCE.exe # 13:15:02  2-03-2013  # TELNET Connection from: 111.183.69.118 
+295. Notice: ConsoleServiceCE.exe # 13:15:02  2-03-2013  # TELNET Connection from: 77.222.174.163 
+296. Notice: ConsoleServiceCE.exe # 13:15:04  2-03-2013  # TELNET Connection from: 88.246.173.242 
+297. Notice: ConsoleServiceCE.exe # 13:15:05  2-03-2013  # TELNET Connection from: 95.6.64.166 
+298. Notice: ConsoleServiceCE.exe # 13:15:05  2-03-2013  # TELNET Connection from: 95.10.106.97 
+299. Notice: ConsoleServiceCE.exe # 13:15:18  2-03-2013  # TELNET Connection from: 119.211.7.7 
+300. Notice: ConsoleServiceCE.exe # 13:15:44  2-03-2013  # TELNET Connection from: 81.214.223.244 
+301. Notice: ConsoleServiceCE.exe # 13:18:35  2-03-2013  # TELNET Connection from: 119.211.7.7 
+302. Notice: ConsoleServiceCE.exe # 13:21:09  2-03-2013  # TELNET Connection from: 119.211.7.7 
+303. Notice: ConsoleServiceCE.exe # 13:22:06  2-03-2013  # TELNET Connection from: 77.222.174.163 
+304. Notice: ConsoleServiceCE.exe # 13:28:50  2-03-2013  # TELNET Connection from: 189.192.193.31 
+305. Notice: ConsoleServiceCE.exe # 13:28:59  2-03-2013  # TELNET Connection from: 88.246.173.242 
+306. Notice: ConsoleServiceCE.exe # 17:19:02  2-03-2013  # TELNET Connection from: 186.120.52.78 
+307. Notice: ConsoleServiceCE.exe # 17:33:13  2-03-2013  # TELNET Connection from: 186.120.52.78 
+308. Notice: ConsoleServiceCE.exe # 21:15:03  2-03-2013  # TELNET Connection from: 76.84.66.142 
+309. Notice: ConsoleServiceCE.exe # 00:23:46  2-04-2013  # TELNET Connection from: 207.127.20.213 
+310. Notice: ConsoleServiceCE.exe # 00:23:57  2-04-2013  # TELNET Connection from: 207.127.20.213 
+311. Notice: ConsoleServiceCE.exe # 00:24:03  2-04-2013  # TELNET Connection from: 207.127.20.213 
+312. Notice: ConsoleServiceCE.exe # 00:24:08  2-04-2013  # TELNET Connection from: 207.127.20.213 
+313. Notice: ConsoleServiceCE.exe # 00:24:13  2-04-2013  # TELNET Connection from: 207.127.20.213 
+314. Notice: ConsoleServiceCE.exe # 00:24:18  2-04-2013  # TELNET Connection from: 207.127.20.213 
+315. Notice: ConsoleServiceCE.exe # 00:24:23  2-04-2013  # TELNET Connection from: 207.127.20.213 
+316. Notice: ConsoleServiceCE.exe # 00:24:28  2-04-2013  # TELNET Connection from: 207.127.20.213 
+317. Notice: ConsoleServiceCE.exe # 00:24:35  2-04-2013  # TELNET Connection from: 207.127.20.213 
+318. Notice: ConsoleServiceCE.exe # 00:24:40  2-04-2013  # TELNET Connection from: 207.127.20.213 
+319. Notice: ConsoleServiceCE.exe # 00:24:45  2-04-2013  # TELNET Connection from: 207.127.20.213 
+320. Notice: ConsoleServiceCE.exe # 00:24:50  2-04-2013  # TELNET Connection from: 207.127.20.213 
+321. Notice: ConsoleServiceCE.exe # 00:24:55  2-04-2013  # TELNET Connection from: 207.127.20.213 
+322. Notice: ConsoleServiceCE.exe # 00:25:00  2-04-2013  # TELNET Connection from: 207.127.20.213 
+323. Notice: ConsoleServiceCE.exe # 00:25:06  2-04-2013  # TELNET Connection from: 207.127.20.213 
+324. Notice: ConsoleServiceCE.exe # 00:25:11  2-04-2013  # TELNET Connection from: 207.127.20.213 
+325. Notice: ConsoleServiceCE.exe # 00:25:18  2-04-2013  # TELNET Connection from: 207.127.20.213 
+326. Notice: ConsoleServiceCE.exe # 00:25:23  2-04-2013  # TELNET Connection from: 207.127.20.213 
+327. Notice: ConsoleServiceCE.exe # 00:25:28  2-04-2013  # TELNET Connection from: 207.127.20.213 
+328. Notice: ConsoleServiceCE.exe # 00:25:33  2-04-2013  # TELNET Connection from: 207.127.20.213 
+329. Notice: ConsoleServiceCE.exe # 00:25:38  2-04-2013  # TELNET Connection from: 207.127.20.213 
+330. Notice: ConsoleServiceCE.exe # 00:25:43  2-04-2013  # TELNET Connection from: 207.127.20.213 
+331. Notice: ConsoleServiceCE.exe # 00:25:48  2-04-2013  # TELNET Connection from: 207.127.20.213 
+332. Notice: ConsoleServiceCE.exe # 02:51:59  2-04-2013  # TELNET Connection from: 88.248.55.212 
+333. Notice: ConsoleServiceCE.exe # 03:05:50  2-04-2013  # TELNET Connection from: 88.248.55.212 
+334. Notice: ConsoleServiceCE.exe # 10:17:50  2-04-2013  # TELNET Connection from: 219.77.208.216 
+335. Notice: ConsoleServiceCE.exe # 10:31:55  2-04-2013  # TELNET Connection from: 219.77.208.216 
+336. Error: LogicEngine.exe [App 1] # 13:20:03  2-04-2013  # Message from device Slot-01.ID-2F: Sensor R1T type USE: 1,97955 Errors @ 97955
+337. Notice: ConsoleServiceCE.exe # 17:29:03  2-04-2013  # TELNET Connection from: 42.2.196.13 
+338. Notice: ConsoleServiceCE.exe # 01:51:27  2-05-2013  # TELNET Connection from: 61.144.107.20 
+339. Notice: ConsoleServiceCE.exe # 01:51:31  2-05-2013  # TELNET Connection from: 61.144.107.20 
+340. Notice: ConsoleServiceCE.exe # 02:08:59  2-05-2013  # TELNET Connection from: 222.78.79.0 
+341. Notice: ConsoleServiceCE.exe # 02:09:06  2-05-2013  # TELNET Connection from: 210.6.164.157 
+342. Notice: ConsoleServiceCE.exe # 02:09:06  2-05-2013  # TELNET Connection from: 61.238.13.116 
+343. Notice: ConsoleServiceCE.exe # 02:09:06  2-05-2013  # TELNET Connection from: 119.246.105.97 
+344. Notice: ConsoleServiceCE.exe # 02:09:06  2-05-2013  # TELNET Connection from: 210.6.253.205 
+345. Notice: ConsoleServiceCE.exe # 02:09:10  2-05-2013  # TELNET Connection from: 58.176.11.253 
+346. Notice: ConsoleServiceCE.exe # 02:09:10  2-05-2013  # TELNET Connection from: 14.198.218.59 
+347. Notice: ConsoleServiceCE.exe # 02:09:10  2-05-2013  # TELNET Connection from: 124.244.66.67 
+348. Notice: ConsoleServiceCE.exe # 02:21:07  2-05-2013  # TELNET Connection from: 212.225.235.125 
+349. Notice: ConsoleServiceCE.exe # 02:22:59  2-05-2013  # TELNET Connection from: 210.6.253.205 
+350. Notice: ConsoleServiceCE.exe # 02:22:59  2-05-2013  # TELNET Connection from: 119.246.105.97 
+351. Notice: ConsoleServiceCE.exe # 02:23:09  2-05-2013  # TELNET Connection from: 210.6.164.157 
+352. Notice: ConsoleServiceCE.exe # 02:25:34  2-05-2013  # TELNET Connection from: 61.238.13.116 
+353. Notice: ConsoleServiceCE.exe # 02:25:34  2-05-2013  # TELNET Connection from: 124.244.66.67 
+354. Notice: ConsoleServiceCE.exe # 02:25:42  2-05-2013  # TELNET Connection from: 14.198.218.59 
+355. Notice: ConsoleServiceCE.exe # 02:25:43  2-05-2013  # TELNET Connection from: 58.176.11.253 
+356. Notice: ConsoleServiceCE.exe # 02:34:47  2-05-2013  # TELNET Connection from: 212.225.235.125 
+357. Notice: ConsoleServiceCE.exe # 04:37:50  2-05-2013  # TELNET Connection from: 122.176.65.186 
+358. Notice: ConsoleServiceCE.exe # 04:38:49  2-05-2013  # TELNET Connection from: 115.108.182.135 
+359. Notice: ConsoleServiceCE.exe # 04:51:33  2-05-2013  # TELNET Connection from: 122.176.65.186 
+360. Notice: ConsoleServiceCE.exe # 04:53:44  2-05-2013  # TELNET Connection from: 115.108.182.135 
+361. Notice: ConsoleServiceCE.exe # 07:44:30  2-05-2013  # TELNET Connection from: 77.77.220.220 
+362. Notice: ConsoleServiceCE.exe # 07:57:59  2-05-2013  # TELNET Connection from: 77.77.220.220 
+363. Notice: ConsoleServiceCE.exe # 09:09:12  2-05-2013  # TELNET Connection from: 177.96.195.69 
+364. Notice: ConsoleServiceCE.exe # 10:09:08  2-05-2013  # TELNET Connection from: 88.235.57.140 
+365. Notice: ConsoleServiceCE.exe # 10:09:08  2-05-2013  # TELNET Connection from: 85.105.32.59 
+366. Notice: ConsoleServiceCE.exe # 10:09:26  2-05-2013  # TELNET Connection from: 85.97.13.99 
+367. Notice: ConsoleServiceCE.exe # 10:09:29  2-05-2013  # TELNET Connection from: 78.184.101.16 
+368. Notice: ConsoleServiceCE.exe # 10:16:19  2-05-2013  # TELNET Connection from: 112.109.198.144 
+369. Notice: ConsoleServiceCE.exe # 10:23:25  2-05-2013  # TELNET Connection from: 78.184.101.16 
+370. Notice: ConsoleServiceCE.exe # 10:25:44  2-05-2013  # TELNET Connection from: 183.178.98.170 
+371. Notice: ConsoleServiceCE.exe # 10:25:44  2-05-2013  # TELNET Connection from: 14.199.142.132 
+372. Notice: ConsoleServiceCE.exe # 10:25:45  2-05-2013  # TELNET Connection from: 124.244.203.219 
+373. Notice: ConsoleServiceCE.exe # 10:25:48  2-05-2013  # TELNET Connection from: 123.202.142.17 
+374. Notice: ConsoleServiceCE.exe # 10:25:49  2-05-2013  # TELNET Connection from: 124.244.119.186 
+375. Notice: ConsoleServiceCE.exe # 10:25:49  2-05-2013  # TELNET Connection from: 14.198.128.58 
+376. Notice: ConsoleServiceCE.exe # 10:25:50  2-05-2013  # TELNET Connection from: 210.6.63.3 
+377. Notice: ConsoleServiceCE.exe # 10:25:51  2-05-2013  # TELNET Connection from: 124.244.119.186 
+378. Notice: ConsoleServiceCE.exe # 10:25:54  2-05-2013  # TELNET Connection from: 123.194.131.86 
+379. Notice: ConsoleServiceCE.exe # 10:26:01  2-05-2013  # TELNET Connection from: 14.198.128.58 
+380. Notice: ConsoleServiceCE.exe # 10:31:52  2-05-2013  # TELNET Connection from: 112.109.198.144 
+381. Notice: ConsoleServiceCE.exe # 10:39:37  2-05-2013  # TELNET Connection from: 14.199.142.132 
+382. Notice: ConsoleServiceCE.exe # 10:39:38  2-05-2013  # TELNET Connection from: 124.244.203.219 
+383. Notice: ConsoleServiceCE.exe # 10:39:38  2-05-2013  # TELNET Connection from: 183.178.98.170 
+384. Notice: ConsoleServiceCE.exe # 10:42:19  2-05-2013  # TELNET Connection from: 123.202.142.17 
+385. Notice: ConsoleServiceCE.exe # 10:42:53  2-05-2013  # TELNET Connection from: 210.6.63.3 
+386. Notice: ConsoleServiceCE.exe # 12:57:44  2-05-2013  # TELNET Connection from: 202.191.227.254 
+387. Notice: ConsoleServiceCE.exe # 13:00:38  2-05-2013  # TELNET Connection from: 77.77.220.97 
+388. Notice: ConsoleServiceCE.exe # 13:04:24  2-05-2013  # TELNET Connection from: 202.191.227.254 
+389. Notice: ConsoleServiceCE.exe # 13:12:07  2-05-2013  # TELNET Connection from: 77.77.220.97 
+390. Notice: ConsoleServiceCE.exe # 17:26:29  2-05-2013  # TELNET Connection from: 79.59.50.146 
+391. Notice: ConsoleServiceCE.exe # 17:26:37  2-05-2013  # TELNET Connection from: 79.59.50.146 
+392. Notice: ConsoleServiceCE.exe # 17:32:55  2-05-2013  # TELNET Connection from: 79.59.50.146 
+393. Notice: ConsoleServiceCE.exe # 18:17:13  2-05-2013  # TELNET Connection from: 183.7.113.36 
+394. Notice: ConsoleServiceCE.exe # 18:17:21  2-05-2013  # TELNET Connection from: 183.7.113.36 
+395. Notice: ConsoleServiceCE.exe # 18:22:32  2-05-2013  # TELNET Connection from: 84.95.147.203 
+396. Notice: ConsoleServiceCE.exe # 18:25:47  2-05-2013  # TELNET Connection from: 187.247.46.38 
+397. Notice: ConsoleServiceCE.exe # 18:25:48  2-05-2013  # TELNET Connection from: 188.3.111.241 
+398. Notice: ConsoleServiceCE.exe # 18:25:49  2-05-2013  # TELNET Connection from: 74.72.206.177 
+399. Notice: ConsoleServiceCE.exe # 18:25:51  2-05-2013  # TELNET Connection from: 117.91.123.40 
+400. Notice: ConsoleServiceCE.exe # 18:27:47  2-05-2013  # TELNET Connection from: 108.199.226.155 
+401. Notice: ConsoleServiceCE.exe # 18:27:55  2-05-2013  # TELNET Connection from: 80.117.195.232 
+402. Notice: ConsoleServiceCE.exe # 18:34:04  2-05-2013  # TELNET Connection from: 80.117.195.232 
+403. Notice: ConsoleServiceCE.exe # 18:35:27  2-05-2013  # TELNET Connection from: 187.247.46.38 
+404. Notice: ConsoleServiceCE.exe # 18:36:21  2-05-2013  # TELNET Connection from: 84.95.147.203 
+405. Notice: ConsoleServiceCE.exe # 18:38:59  2-05-2013  # TELNET Connection from: 80.117.195.232 
+406. Notice: ConsoleServiceCE.exe # 18:39:43  2-05-2013  # TELNET Connection from: 188.3.111.241 
+407. Notice: ConsoleServiceCE.exe # 18:40:31  2-05-2013  # TELNET Connection from: 74.72.206.177 
+408. Notice: ConsoleServiceCE.exe # 18:40:56  2-05-2013  # TELNET Connection from: 108.199.226.155 
+409. Notice: ConsoleServiceCE.exe # 18:50:58  2-05-2013  # TELNET Connection from: 117.91.123.40 
+410. Notice: ConsoleServiceCE.exe # 21:43:31  2-05-2013  # TELNET Connection from: 124.92.52.28 
+411. Notice: ConsoleServiceCE.exe # 21:43:33  2-05-2013  # TELNET Connection from: 61.93.107.225 
+412. Notice: ConsoleServiceCE.exe # 21:43:34  2-05-2013  # TELNET Connection from: 14.198.154.5 
+413. Notice: ConsoleServiceCE.exe # 21:43:34  2-05-2013  # TELNET Connection from: 123.202.108.26 
+414. Notice: ConsoleServiceCE.exe # 21:43:34  2-05-2013  # TELNET Connection from: 14.136.37.136 
+415. Notice: ConsoleServiceCE.exe # 21:43:34  2-05-2013  # TELNET Connection from: 119.247.16.18 
+416. Notice: ConsoleServiceCE.exe # 21:43:46  2-05-2013  # TELNET Connection from: 14.198.154.5 
+417. Notice: ConsoleServiceCE.exe # 21:58:37  2-05-2013  # TELNET Connection from: 124.92.52.28 
+418. Notice: ConsoleServiceCE.exe # 22:00:02  2-05-2013  # TELNET Connection from: 61.93.107.225 
+419. Notice: ConsoleServiceCE.exe # 22:00:05  2-05-2013  # TELNET Connection from: 14.136.37.136 
+420. Notice: ConsoleServiceCE.exe # 22:00:39  2-05-2013  # TELNET Connection from: 119.247.16.18 
+421. Notice: ConsoleServiceCE.exe # 05:45:55  2-06-2013  # TELNET Connection from: 14.66.60.218 
+422. Notice: ConsoleServiceCE.exe # 05:59:11  2-06-2013  # TELNET Connection from: 14.66.60.218 
+423. Notice: ConsoleServiceCE.exe # 07:09:49  2-06-2013  # TELNET Connection from: 128.59.14.98 
+424. Notice: ConsoleServiceCE.exe # 07:09:51  2-06-2013  # TELNET Connection from: 128.59.14.98 
+425. Notice: ConsoleServiceCE.exe # 11:40:18  2-06-2013  # TELNET Connection from: 24.246.81.198 
+426. Warning: splusmanagerapp.exe [App 1] # 12:12:20  2-06-2013  # Module S-4.2.1.3.8:S-29.26 : XM_Large_TP_GUI_Processor_v1_0_0 at line 465: UpdateInputValue: Could not get m_BufferReadyEvent
+427. Warning: splusmanagerapp.exe [App 1] # 19:16:04  2-06-2013  # Module S-4.2.1.4.8:S-29.26 : XM_Large_TP_GUI_Processor_v1_0_0 at line 465: UpdateInputValue: Could not get m_BufferReadyEvent
+428. Notice: ConsoleServiceCE.exe # 05:14:27  2-07-2013  # TELNET Connection from: 41.43.109.56 
+429. Warning: LogicEngine.exe [App 1] # 06:40:17  2-07-2013  # Cannot set permanent string at input 1 from symbol S-4.2.1.4.8:S-14.6 to "  ".  Maximum Length = 1, New Length would be 2.  Truncating string to 1 characters.
+430. Notice: ConsoleServiceCE.exe # 15:45:18  2-07-2013  # TELNET Connection from: 60.191.43.218 
+431. Notice: ConsoleServiceCE.exe # 17:07:58  2-07-2013  # TELNET Connection from: 76.9.248.28 
+432. Notice: ConsoleServiceCE.exe # 17:08:55  2-07-2013  # TELNET Connection from: 62.194.230.82 
+433. Notice: ConsoleServiceCE.exe # 17:08:57  2-07-2013  # TELNET Connection from: 85.108.198.78 
+434. Notice: ConsoleServiceCE.exe # 17:08:58  2-07-2013  # TELNET Connection from: 182.146.144.46 
+435. Notice: ConsoleServiceCE.exe # 17:09:08  2-07-2013  # TELNET Connection from: 80.56.30.219 
+436. Notice: ConsoleServiceCE.exe # 17:13:18  2-07-2013  # TELNET Connection from: 14.49.215.66 
+437. Notice: ConsoleServiceCE.exe # 17:22:32  2-07-2013  # TELNET Connection from: 182.146.144.46 
+438. Notice: ConsoleServiceCE.exe # 17:28:02  2-07-2013  # TELNET Connection from: 115.108.177.49 
+439. Notice: ConsoleServiceCE.exe # 17:28:07  2-07-2013  # TELNET Connection from: 121.245.225.147 
+440. Notice: ConsoleServiceCE.exe # 17:42:50  2-07-2013  # TELNET Connection from: 115.108.177.49 
+441. Notice: ConsoleServiceCE.exe # 17:42:56  2-07-2013  # TELNET Connection from: 121.245.225.147 
+442. Notice: ConsoleServiceCE.exe # 22:57:46  2-07-2013  # TELNET Connection from: 115.134.106.244 
+443. Notice: ConsoleServiceCE.exe # 22:57:59  2-07-2013  # TELNET Connection from: 68.196.242.52 
+444. Notice: ConsoleServiceCE.exe # 22:58:08  2-07-2013  # TELNET Connection from: 85.101.20.68 
+445. Notice: ConsoleServiceCE.exe # 23:11:48  2-07-2013  # TELNET Connection from: 68.196.242.52 
+446. Notice: ConsoleServiceCE.exe # 23:11:53  2-07-2013  # TELNET Connection from: 85.101.20.68 
+447. Notice: ConsoleServiceCE.exe # 23:12:48  2-07-2013  # TELNET Connection from: 115.134.106.244 
+448. Notice: ConsoleServiceCE.exe # 01:22:19  2-08-2013  # TELNET Connection from: 58.176.248.201 
+449. Notice: ConsoleServiceCE.exe # 01:36:00  2-08-2013  # TELNET Connection from: 58.176.248.201 
+450. Notice: ConsoleServiceCE.exe # 03:52:45  2-08-2013  # TELNET Connection from: 173.70.120.226 
+451. Notice: ConsoleServiceCE.exe # 04:06:36  2-08-2013  # TELNET Connection from: 173.70.120.226 
+452. Notice: ConsoleServiceCE.exe # 09:16:36  2-08-2013  # TELNET Connection from: 82.80.158.67 
+453. Notice: ConsoleServiceCE.exe # 09:22:09  2-08-2013  # TELNET Connection from: 88.238.221.195 
+454. Notice: ConsoleServiceCE.exe # 09:22:12  2-08-2013  # TELNET Connection from: 121.132.7.95 
+455. Notice: ConsoleServiceCE.exe # 09:36:03  2-08-2013  # TELNET Connection from: 88.238.221.195 
+456. Notice: ConsoleServiceCE.exe # 10:34:54  2-08-2013  # CTP Connection from: 192.168.1.203 
+ Total Msgs Logged = 487
+ END OF SYSTEM LOG
+
