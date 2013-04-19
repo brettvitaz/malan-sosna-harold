@@ -1,96 +1,96 @@
 <?xml version='1.0' encoding='ISO-8859-1' ?>
 <File Type='Manifest' Version='5.1.0' ObjectDisplayList='3'>
-<Project FileName='IPAD_20-_20Sosna_20-_20House.zip' Size='2112347' Build='20130419134316'>
+<Project FileName='IPAD_20-_20Sosna_20-_20House.zip' Size='2112357' Build='20130419141153'>
 <Sources>
-<Source FileName='IPAD_20-_20Sosna_20-_20House.xml' Size='564' Type='Application' Build='20130419134316' />
-<Source FileName='IPAD_20-_20Sosna_20-_20House_Resource.xml' Size='32283' Type='Resource' Build='20130419134316' />
-<Source FileName='Lighting (07 Fireplace).xml' Size='1433' Type='Subpage' Build='20130419134346' />
-<Source FileName='Lighting (01 Main)-12 (Global).xml' Size='15178' Type='Subpage' Build='20130419134346' />
-<Source FileName='Lighting (22 Fireplace).xml' Size='1433' Type='Subpage' Build='20130419134345' />
-<Source FileName='Lighting (01 Main)-16.xml' Size='19400' Type='Subpage' Build='20130419134345' />
-<Source FileName='Lighting (01 Main)-15.xml' Size='8823' Type='Subpage' Build='20130419134343' />
-<Source FileName='Lighting (01 Main)-14.xml' Size='8823' Type='Subpage' Build='20130419134343' />
-<Source FileName='Lighting (01 Main)-13.xml' Size='8823' Type='Subpage' Build='20130419134342' />
-<Source FileName='Lighting (01 Main)-12.xml' Size='8823' Type='Subpage' Build='20130419134342' />
-<Source FileName='Lighting (01 Main)-11.xml' Size='8823' Type='Subpage' Build='20130419134340' />
-<Source FileName='Lighting (01 Main)-10.xml' Size='8823' Type='Subpage' Build='20130419134340' />
-<Source FileName='Lighting (01 Main)-09.xml' Size='8823' Type='Subpage' Build='20130419134340' />
-<Source FileName='Lighting (01 Main)-08.xml' Size='10938' Type='Subpage' Build='20130419134339' />
-<Source FileName='Lighting (01 Main)-07.xml' Size='9881' Type='Subpage' Build='20130419134337' />
-<Source FileName='Lighting (01 Main)-06.xml' Size='8823' Type='Subpage' Build='20130419134337' />
-<Source FileName='Lighting (01 Main)-05.xml' Size='7765' Type='Subpage' Build='20130419134335' />
-<Source FileName='Lighting (01 Main)-04.xml' Size='6707' Type='Subpage' Build='20130419134335' />
-<Source FileName='Lighting (01 Main)-03.xml' Size='5650' Type='Subpage' Build='20130419134334' />
-<Source FileName='Lighting (01 Main)-02.xml' Size='4592' Type='Subpage' Build='20130419134334' />
-<Source FileName='Lighting (01 Main)-01.xml' Size='3534' Type='Subpage' Build='20130419134334' />
-<Source FileName='Main (01 Audio Source Bar)-4.xml' Size='4503' Type='Subpage' Build='20130419134332' />
-<Source FileName='Main (01 Audio Source Bar)-3.xml' Size='4503' Type='Subpage' Build='20130419134332' />
-<Source FileName='Main (01 Audio Source Bar)-2.xml' Size='4503' Type='Subpage' Build='20130419134331' />
-<Source FileName='Main (01 Audio Source Bar)-1.xml' Size='4503' Type='Subpage' Build='20130419134331' />
-<Source FileName='Main (02 Video Sources Bar)-4.xml' Size='7464' Type='Subpage' Build='20130419134329' />
-<Source FileName='Main (02 Video Sources Bar)-3.xml' Size='7464' Type='Subpage' Build='20130419134328' />
-<Source FileName='Main (02 Video Sources Bar)-2.xml' Size='7464' Type='Subpage' Build='20130419134328' />
-<Source FileName='Main (02 Video Sources Bar)-1.xml' Size='7464' Type='Subpage' Build='20130419134326' />
-<Source FileName='Zones (01 - Group 4).xml' Size='11503' Type='Subpage' Build='20130419134325' />
-<Source FileName='Zones (01 - Group 3).xml' Size='15207' Type='Subpage' Build='20130419134323' />
-<Source FileName='Zones (01 - Group 2).xml' Size='11503' Type='Subpage' Build='20130419134321' />
-<Source FileName='Zones (00 - Main).xml' Size='4660' Type='Subpage' Build='20130419134321' />
-<Source FileName='Zones (01 - Default).xml' Size='59615' Type='Subpage' Build='20130419134320' />
-<Source FileName='Climate (00 Main).xml' Size='1140' Type='Subpage' Build='20130419134318' />
-<Source FileName='Main (02 Video Sources Bar).xml' Size='7460' Type='Subpage' Build='20130419134317' />
-<Source FileName='Main (00 Modes - Audio-Video).xml' Size='10844' Type='Subpage' Build='20130419134314' />
-<Source FileName='Source (51 Kaleidescape - Open URL).xml' Size='1431' Type='Subpage' Build='20130419134312' />
-<Source FileName='Security (01 Main).xml' Size='17882' Type='Subpage' Build='20130419134310' />
-<Source FileName='Climate (02 Schedule).xml' Size='19194' Type='Subpage' Build='20130419134309' />
-<Source FileName='Source (71 Jukebox - Dialog).xml' Size='5809' Type='Subpage' Build='20130419134306' />
-<Source FileName='Source (71 Jukebox - Search).xml' Size='43994' Type='Subpage' Build='20130419134306' />
-<Source FileName='Source (71 Jukebox - Now Playing).xml' Size='13191' Type='Subpage' Build='20130419134300' />
-<Source FileName='Source (71 Jukebox - Message).xml' Size='1148' Type='Subpage' Build='20130419134396' />
-<Source FileName='Source (71 Jukebox - Thumbnail).xml' Size='20766' Type='Subpage' Build='20130419134396' />
-<Source FileName='Source (71 Jukebox - List).xml' Size='16785' Type='Subpage' Build='20130419134393' />
-<Source FileName='Source (71 Jukebox - 1Main).xml' Size='20823' Type='Subpage' Build='20130419134393' />
-<Source FileName='Source (21 XM - 3Channels).xml' Size='36655' Type='Subpage' Build='20130419134390' />
-<Source FileName='Source (21 XM - 4Keypad).xml' Size='13990' Type='Subpage' Build='20130419134387' />
-<Source FileName='Source (21 XM - 2Presets).xml' Size='10461' Type='Subpage' Build='20130419134387' />
-<Source FileName='Source (17 Tuner - 2Presets).xml' Size='10464' Type='Subpage' Build='20130419134385' />
-<Source FileName='Source (17 Tuner - 3Keypad).xml' Size='14297' Type='Subpage' Build='20130419134384' />
-<Source FileName='Source (21 XM - 1Main).xml' Size='6321' Type='Subpage' Build='20130419134382' />
-<Source FileName='Source (12 AppleTV - Main).xml' Size='8893' Type='Subpage' Build='20130419134381' />
-<Source FileName='Source (TV Presets).xml' Size='32719' Type='Subpage' Build='20130419134381' />
-<Source FileName='Source (31 Cable - Main).xml' Size='36688' Type='Subpage' Build='20130419134370' />
-<Source FileName='Main (00 Modes).xml' Size='1164' Type='Page' Build='20130419134367' />
-<Source FileName='Main (03 Right Bar).xml' Size='4325' Type='Subpage' Build='20130419134367' />
-<Source FileName='Main (04 Right Bar).xml' Size='2479' Type='Subpage' Build='20130419134367' />
-<Source FileName='Pool (01 Main).xml' Size='13988' Type='Subpage' Build='20130419134365' />
-<Source FileName='Main (06 Right Bar).xml' Size='3400' Type='Subpage' Build='20130419134364' />
-<Source FileName='Main (06 Pool Bar).xml' Size='393' Type='Subpage' Build='20130419134364' />
-<Source FileName='Main (06 Pool).xml' Size='1275' Type='Page' Build='20130419134364' />
-<Source FileName='Source (17 Tuner - 1Main).xml' Size='3139' Type='Subpage' Build='20130419134364' />
-<Source FileName='Main (02 Right Bar).xml' Size='5396' Type='Subpage' Build='20130419134362' />
-<Source FileName='Main (00 Zones - Left Bar).xml' Size='9011' Type='Subpage' Build='20130419134362' />
-<Source FileName='Main (00 Zones - Right Bar).xml' Size='3408' Type='Subpage' Build='20130419134360' />
-<Source FileName='Main (00 Zones).xml' Size='4324' Type='Page' Build='20130419134360' />
-<Source FileName='Main (00 Zones Bar).xml' Size='394' Type='Subpage' Build='20130419134359' />
-<Source FileName='Lighting (02 Main).xml' Size='17505' Type='Subpage' Build='20130419134359' />
-<Source FileName='Cameras (01 Main).xml' Size='7980' Type='Subpage' Build='20130419134357' />
-<Source FileName='Main (05 Cameras Bar).xml' Size='3861' Type='Subpage' Build='20130419134357' />
-<Source FileName='Main (04 Lighting Bar).xml' Size='12917' Type='Subpage' Build='20130419134353' />
-<Source FileName='Main (05 Cameras).xml' Size='1622' Type='Page' Build='20130419134350' />
-<Source FileName='Lighting (01 Main).xml' Size='8820' Type='Subpage' Build='20130419134350' />
-<Source FileName='Main (04 Lighting).xml' Size='4789' Type='Page' Build='20130419134350' />
-<Source FileName='Climate (01 Main).xml' Size='14038' Type='Subpage' Build='20130419134348' />
-<Source FileName='Main (03 Climate Bar).xml' Size='12858' Type='Subpage' Build='20130419134348' />
-<Source FileName='Main (03 Climate).xml' Size='1802' Type='Page' Build='20130419134345' />
-<Source FileName='Source (12 Wii - Main).xml' Size='735' Type='Subpage' Build='20130419134345' />
-<Source FileName='Source (41 Blu-ray - Main).xml' Size='33588' Type='Subpage' Build='20130419134345' />
-<Source FileName='Source (61 Satellite - Main).xml' Size='36692' Type='Subpage' Build='20130419134342' />
-<Source FileName='Main (02 Video).xml' Size='4283' Type='Page' Build='20130419134329' />
-<Source FileName='Main (00 MTROL).xml' Size='629' Type='Subpage' Build='20130419134329' />
-<Source FileName='Source (15 DSS Music - Main).xml' Size='20217' Type='Subpage' Build='20130419134326' />
-<Source FileName='Main (01 Audio Source Bar).xml' Size='4499' Type='Subpage' Build='20130419134323' />
-<Source FileName='Main (01 Right Bar).xml' Size='4591' Type='Subpage' Build='20130419134320' />
-<Source FileName='Main (00 Left Bar).xml' Size='9003' Type='Subpage' Build='20130419134318' />
-<Source FileName='Main (01 Audio).xml' Size='6428' Type='Page' Build='20130419134314' />
+<Source FileName='IPAD_20-_20Sosna_20-_20House.xml' Size='564' Type='Application' Build='20130419141153' />
+<Source FileName='IPAD_20-_20Sosna_20-_20House_Resource.xml' Size='32283' Type='Resource' Build='20130419141153' />
+<Source FileName='Lighting (07 Fireplace).xml' Size='1433' Type='Subpage' Build='20130419141138' />
+<Source FileName='Lighting (01 Main)-12 (Global).xml' Size='15178' Type='Subpage' Build='20130419141138' />
+<Source FileName='Lighting (22 Fireplace).xml' Size='1433' Type='Subpage' Build='20130419141137' />
+<Source FileName='Lighting (01 Main)-16.xml' Size='19400' Type='Subpage' Build='20130419141137' />
+<Source FileName='Lighting (01 Main)-15.xml' Size='8823' Type='Subpage' Build='20130419141137' />
+<Source FileName='Lighting (01 Main)-14.xml' Size='8823' Type='Subpage' Build='20130419141135' />
+<Source FileName='Lighting (01 Main)-13.xml' Size='8823' Type='Subpage' Build='20130419141135' />
+<Source FileName='Lighting (01 Main)-12.xml' Size='8823' Type='Subpage' Build='20130419141135' />
+<Source FileName='Lighting (01 Main)-11.xml' Size='8823' Type='Subpage' Build='20130419141134' />
+<Source FileName='Lighting (01 Main)-10.xml' Size='8823' Type='Subpage' Build='20130419141134' />
+<Source FileName='Lighting (01 Main)-09.xml' Size='8823' Type='Subpage' Build='20130419141132' />
+<Source FileName='Lighting (01 Main)-08.xml' Size='10938' Type='Subpage' Build='20130419141132' />
+<Source FileName='Lighting (01 Main)-07.xml' Size='9881' Type='Subpage' Build='20130419141132' />
+<Source FileName='Lighting (01 Main)-06.xml' Size='8823' Type='Subpage' Build='20130419141131' />
+<Source FileName='Lighting (01 Main)-05.xml' Size='7765' Type='Subpage' Build='20130419141131' />
+<Source FileName='Lighting (01 Main)-04.xml' Size='6707' Type='Subpage' Build='20130419141129' />
+<Source FileName='Lighting (01 Main)-03.xml' Size='5650' Type='Subpage' Build='20130419141129' />
+<Source FileName='Lighting (01 Main)-02.xml' Size='4592' Type='Subpage' Build='20130419141129' />
+<Source FileName='Lighting (01 Main)-01.xml' Size='3534' Type='Subpage' Build='20130419141129' />
+<Source FileName='Main (01 Audio Source Bar)-4.xml' Size='4503' Type='Subpage' Build='20130419141128' />
+<Source FileName='Main (01 Audio Source Bar)-3.xml' Size='4503' Type='Subpage' Build='20130419141128' />
+<Source FileName='Main (01 Audio Source Bar)-2.xml' Size='4503' Type='Subpage' Build='20130419141128' />
+<Source FileName='Main (01 Audio Source Bar)-1.xml' Size='4503' Type='Subpage' Build='20130419141126' />
+<Source FileName='Main (02 Video Sources Bar)-4.xml' Size='7464' Type='Subpage' Build='20130419141126' />
+<Source FileName='Main (02 Video Sources Bar)-3.xml' Size='7464' Type='Subpage' Build='20130419141124' />
+<Source FileName='Main (02 Video Sources Bar)-2.xml' Size='7464' Type='Subpage' Build='20130419141123' />
+<Source FileName='Main (02 Video Sources Bar)-1.xml' Size='7464' Type='Subpage' Build='20130419141123' />
+<Source FileName='Zones (01 - Group 4).xml' Size='11503' Type='Subpage' Build='20130419141121' />
+<Source FileName='Zones (01 - Group 3).xml' Size='15207' Type='Subpage' Build='20130419141121' />
+<Source FileName='Zones (01 - Group 2).xml' Size='11503' Type='Subpage' Build='20130419141120' />
+<Source FileName='Zones (00 - Main).xml' Size='4660' Type='Subpage' Build='20130419141120' />
+<Source FileName='Zones (01 - Default).xml' Size='59615' Type='Subpage' Build='20130419141120' />
+<Source FileName='Climate (00 Main).xml' Size='1140' Type='Subpage' Build='20130419141117' />
+<Source FileName='Main (02 Video Sources Bar).xml' Size='7460' Type='Subpage' Build='20130419141117' />
+<Source FileName='Main (00 Modes - Audio-Video).xml' Size='10844' Type='Subpage' Build='20130419141112' />
+<Source FileName='Source (51 Kaleidescape - Open URL).xml' Size='1431' Type='Subpage' Build='20130419141110' />
+<Source FileName='Security (01 Main).xml' Size='17882' Type='Subpage' Build='20130419141110' />
+<Source FileName='Climate (02 Schedule).xml' Size='19194' Type='Subpage' Build='20130419141109' />
+<Source FileName='Source (71 Jukebox - Dialog).xml' Size='5809' Type='Subpage' Build='20130419141107' />
+<Source FileName='Source (71 Jukebox - Search).xml' Size='43994' Type='Subpage' Build='20130419141106' />
+<Source FileName='Source (71 Jukebox - Now Playing).xml' Size='13191' Type='Subpage' Build='20130419141103' />
+<Source FileName='Source (71 Jukebox - Message).xml' Size='1148' Type='Subpage' Build='20130419141199' />
+<Source FileName='Source (71 Jukebox - Thumbnail).xml' Size='20766' Type='Subpage' Build='20130419141199' />
+<Source FileName='Source (71 Jukebox - List).xml' Size='16785' Type='Subpage' Build='20130419141198' />
+<Source FileName='Source (71 Jukebox - 1Main).xml' Size='20823' Type='Subpage' Build='20130419141198' />
+<Source FileName='Source (21 XM - 3Channels).xml' Size='36655' Type='Subpage' Build='20130419141195' />
+<Source FileName='Source (21 XM - 4Keypad).xml' Size='13990' Type='Subpage' Build='20130419141193' />
+<Source FileName='Source (21 XM - 2Presets).xml' Size='10461' Type='Subpage' Build='20130419141193' />
+<Source FileName='Source (17 Tuner - 2Presets).xml' Size='10464' Type='Subpage' Build='20130419141192' />
+<Source FileName='Source (17 Tuner - 3Keypad).xml' Size='14297' Type='Subpage' Build='20130419141192' />
+<Source FileName='Source (21 XM - 1Main).xml' Size='6321' Type='Subpage' Build='20130419141190' />
+<Source FileName='Source (12 AppleTV - Main).xml' Size='8893' Type='Subpage' Build='20130419141190' />
+<Source FileName='Source (TV Presets).xml' Size='32719' Type='Subpage' Build='20130419141188' />
+<Source FileName='Source (31 Cable - Main).xml' Size='36694' Type='Subpage' Build='20130419141179' />
+<Source FileName='Main (00 Modes).xml' Size='1164' Type='Page' Build='20130419141178' />
+<Source FileName='Main (03 Right Bar).xml' Size='4325' Type='Subpage' Build='20130419141176' />
+<Source FileName='Main (04 Right Bar).xml' Size='2479' Type='Subpage' Build='20130419141176' />
+<Source FileName='Pool (01 Main).xml' Size='13988' Type='Subpage' Build='20130419141176' />
+<Source FileName='Main (06 Right Bar).xml' Size='3400' Type='Subpage' Build='20130419141174' />
+<Source FileName='Main (06 Pool Bar).xml' Size='393' Type='Subpage' Build='20130419141174' />
+<Source FileName='Main (06 Pool).xml' Size='1275' Type='Page' Build='20130419141173' />
+<Source FileName='Source (17 Tuner - 1Main).xml' Size='3139' Type='Subpage' Build='20130419141173' />
+<Source FileName='Main (02 Right Bar).xml' Size='5396' Type='Subpage' Build='20130419141173' />
+<Source FileName='Main (00 Zones - Left Bar).xml' Size='9011' Type='Subpage' Build='20130419141171' />
+<Source FileName='Main (00 Zones - Right Bar).xml' Size='3408' Type='Subpage' Build='20130419141171' />
+<Source FileName='Main (00 Zones).xml' Size='4324' Type='Page' Build='20130419141171' />
+<Source FileName='Main (00 Zones Bar).xml' Size='394' Type='Subpage' Build='20130419141170' />
+<Source FileName='Lighting (02 Main).xml' Size='17505' Type='Subpage' Build='20130419141170' />
+<Source FileName='Cameras (01 Main).xml' Size='7980' Type='Subpage' Build='20130419141170' />
+<Source FileName='Main (05 Cameras Bar).xml' Size='3861' Type='Subpage' Build='20130419141168' />
+<Source FileName='Main (04 Lighting Bar).xml' Size='12917' Type='Subpage' Build='20130419141165' />
+<Source FileName='Main (05 Cameras).xml' Size='1622' Type='Page' Build='20130419141163' />
+<Source FileName='Lighting (01 Main).xml' Size='8820' Type='Subpage' Build='20130419141162' />
+<Source FileName='Main (04 Lighting).xml' Size='4789' Type='Page' Build='20130419141162' />
+<Source FileName='Climate (01 Main).xml' Size='14038' Type='Subpage' Build='20130419141162' />
+<Source FileName='Main (03 Climate Bar).xml' Size='12858' Type='Subpage' Build='20130419141160' />
+<Source FileName='Main (03 Climate).xml' Size='1802' Type='Page' Build='20130419141159' />
+<Source FileName='Source (12 Wii - Main).xml' Size='735' Type='Subpage' Build='20130419141159' />
+<Source FileName='Source (41 Blu-ray - Main).xml' Size='33588' Type='Subpage' Build='20130419141159' />
+<Source FileName='Source (61 Satellite - Main).xml' Size='36698' Type='Subpage' Build='20130419141156' />
+<Source FileName='Main (02 Video).xml' Size='4283' Type='Page' Build='20130419141143' />
+<Source FileName='Main (00 MTROL).xml' Size='629' Type='Subpage' Build='20130419141140' />
+<Source FileName='Source (15 DSS Music - Main).xml' Size='20217' Type='Subpage' Build='20130419141138' />
+<Source FileName='Main (01 Audio Source Bar).xml' Size='4499' Type='Subpage' Build='20130419141135' />
+<Source FileName='Main (01 Right Bar).xml' Size='4591' Type='Subpage' Build='20130419141134' />
+<Source FileName='Main (00 Left Bar).xml' Size='9003' Type='Subpage' Build='20130419141131' />
+<Source FileName='Main (01 Audio).xml' Size='6428' Type='Page' Build='20130419141129' />
 </Sources>
 </Project>
 </File>
