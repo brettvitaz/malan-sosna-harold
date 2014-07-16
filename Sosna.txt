@@ -1,0 +1,228 @@
+err plogcurrent
+Persistent log contents during current boot:
+Info: nk.exe # 11:35:43  7-16-2014  # HwDogDriverInit: device id = 0x1
+Notice: nk.exe # 11:35:43  7-16-2014  # Power On
+Notice: nk.exe # 11:35:43  7-16-2014  # System startup: PRO3 [v1.009.0029 (Mar 14 2014) #0094E6AE]
+setIP: Registry static IP setting = 0.0.0.0
+Info: nk.exe # 11:35:43  7-16-2014  #  UpdateDHCPOptions:HostName option selected 
+Info: nk.exe # 11:35:43  7-16-2014  #  UpdateDHCPOptions:HostName option selected 
+Info: nk.exe # 11:35:43  7-16-2014  # Updating DHCP options on boot
+	UsbHost : New Hub [address(1) / layer(0)]
+Info: nk.exe # 11:35:46  7-16-2014  # CExternalHub::WaitForPortStatusChange: port 5 change
+Info: nk.exe # 11:35:46  7-16-2014  # 
+HubStatusChangeThread: Port 5 Connection Changed, device already exist: 0
+Ethernet auto-negotiated 100Mbps, Full Duplex
+Info: nk.exe # 11:35:46  7-16-2014  # 
+Port 5 Attached
+Info: nk.exe # 11:35:46  7-16-2014  # 
+CHub: Dev attached
+Info: nk.exe # 11:35:46  7-16-2014  # 	UsbHost : New Function [address(4) / layer(1)]
+ETO280A1DMU LCD is installed on system
+Info: nk.exe # 11:35:47  7-16-2014  # UIHAL BASE: device id = 0x1
+
+Open existing DSTORE File: UIDStore.bin
+DATASTORE: Existing File
+Info: CrestronMonitor.exe # 11:35:52  7-16-2014  # Crestron applications already installed
+Info: RouterTransportProcess.exe # 11:35:53  7-16-2014  #  Max Count To Wait before resetting router if NO IPAddress Obtained is 3 
+Info: RouterTransportProcess.exe # 11:35:53  7-16-2014  #  UserPAT list instantiated 301 entries supported starting at port 64000
+Info: RouterTransportProcess.exe # 11:35:53  7-16-2014  # Attempting to determine DHCP Server's IP
+Notice: ConsoleServiceCE.exe # 11:35:54  7-16-2014  # Got Security Flag: 0
+Info: RouterTransportProcess.exe # 11:35:58  7-16-2014  # Successfully Released adapter 
+Info: RouterTransportProcess.exe # 11:35:58  7-16-2014  # Successfully renewed adapter 
+Info: TLDM.exe # 11:36:01  7-16-2014  #  THAL loading now  .. 
+Info: TLDM.exe # 11:36:01  7-16-2014  #  TLDM Starting.. 
+ Info: TLDM.exe # 11:36:01  7-16-2014  #  LoadHardwareMapOnStartUp - Running on a PRO3 
+Info: nk.exe # 11:36:01  7-16-2014  # USBIPC: Set IOP max failure count for EP3 to 10
+Info: nk.exe # 11:36:01  7-16-2014  # USBIPC: Set IOP max failure count for EP2 to 5
+Info: TLDM.exe # 11:36:01  7-16-2014  #  HostName read in is PRO3-7F2AF270 
+Info: nk.exe # 11:36:01  7-16-2014  # USBIPC: Set IOP max failure count for EP1 to 5
+CQTransfer: Halted. qTD_Token value: 80008D40
+Info: TLDM.exe # 11:36:02  7-16-2014  #  Successfully registered with the console service - Console available 
+Ok: CIPCommandProcessor.exe # 11:36:04  7-16-2014  #  IP Address not set. HostName resolution order not known - 2 
+
+Info: CIPCommandProcessor.exe # 11:36:05  7-16-2014  #  TLDMInterfaceReadInMessageQueueSize - Queue size defaults to 500 
+Ok: CloudClient.exe # 11:36:06  7-16-2014  # CloudUrl: https://device.my.crestron.com/reg/
+OSDTLDMInterface::Start -- SENDING REG PACKET
+Notice: Displaymanager.exe # 11:36:07  7-16-2014  # DisplayManager.exe File Version: 1.0.5185.26702
+TD Token: XactErr.  qTD_Token value: 3F8D08
+Notice: CrestronListUIApp.exe # 11:36:09  7-16-2014  # List UI : Project file location : ROMDISK\805AE1CF-5780-4F88-98C7-7C933AB56525\Setup\Pro3FrontPanel.bin
+Notice: CrestronListUIApp.exe # 11:36:09  7-16-2014  # LIST UI::NC: LOG=ListUI :Initializing IPLink..
+Notice: CrestronListUIApp.exe # 11:36:10  7-16-2014  # ListUIClient: Connecting to server
+Notice: CrestronListUIApp.exe # 11:36:10  7-16-2014  # ListUIClient:: connected to server. socket: 1
+Notice: CrestronListUIApp.exe # 11:36:10  7-16-2014  # Sending LIST UI REQUEST message to Host...
+Info: TLDM.exe # 11:36:14  7-16-2014  # RouterMonitorThreadCallbackRoutine: Router is now in application space 
+Ok: SimplSharpPro.exe # 11:36:14  7-16-2014  # SimplSharpPro Version: 1.4.0.03
+Ok: SimplSharpPro.exe # 11:36:15  7-16-2014  #  Successfully registered the application with the TLDM 
+Error: CloudClient.exe # 11:36:17  7-16-2014  #  CloudClient Frame Response status : Cannot resolve host
+ 
+Info: LogicEngine.exe [App 1] # 11:36:24  7-16-2014  # Loading program from \SIMPL\app01
+Info: LogicEngine.exe [App 1] # 11:36:24  7-16-2014  # Loading Program \SIMPL\app01\PRO3 - Sosna.bin.
+Ok: CIPCommandProcessor.exe # 11:36:49  7-16-2014  #  Enabling TCP ZPanel server - IP Address not set. Server will be enabled when we get an IP Address ..
+Ok: CIPCommandProcessor.exe # 11:36:49  7-16-2014  #  Enabling TCP ZPanel server - IP Address not set. Server will be enabled when we get an IP Address ..
+CQTransfer: Halted. qTD_Token value: 80008D40
+Error: splusmanagerapp.exe [App 1] # 11:36:52  7-16-2014  # Module S-4.2.2.13.12:S-4 : Kaleidescape_OSD_Processor_v8_2_0 at line 127: Overflow. Capacity = 10. Length = 13
+Error: splusmanagerapp.exe [App 1] # 11:36:52  7-16-2014  # Module S-4.2.2.14.12:S-4 : Kaleidescape_OSD_Processor_v8_2_0 at line 127: Overflow. Capacity = 10. Length = 13
+Error: splusmanagerapp.exe [App 1] # 11:36:52  7-16-2014  # Module S-4.3.6.3.12:S-4 : Kaleidescape_OSD_Processor_v8_2_0 at line 127: Overflow. Capacity = 10. Length = 12
+Ok: CIPCommandProcessor.exe # 11:36:55  7-16-2014  #  Launching TCP server now 
+Error: splusmanagerapp.exe [App 1] # 11:36:56  7-16-2014  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+Error: splusmanagerapp.exe [App 1] # 11:36:57  7-16-2014  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+Error: splusmanagerapp.exe [App 1] # 11:36:58  7-16-2014  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+Error: splusmanagerapp.exe [App 1] # 11:36:58  7-16-2014  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+Error: splusmanagerapp.exe [App 1] # 11:36:58  7-16-2014  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+Ok: splusmanagerapp.exe [App 1] # 11:36:58  7-16-2014  #  Application Id 1 - Unable to query for CS Mask. Opening on LAN side for 0.0.0.0 
+
+Error: splusmanagerapp.exe [App 1] # 11:36:58  7-16-2014  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+Ok: splusmanagerapp.exe # 11:36:58  7-16-2014  #  Application Id 1 - Opening on LAN side for 0.0.0.0 
+
+Error: splusmanagerapp.exe [App 1] # 11:36:58  7-16-2014  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+Error: splusmanagerapp.exe # 11:36:58  7-16-2014  #  TCP Server port number 843 already in use. Stopping server
+Error: splusmanagerapp.exe # 11:36:58  7-16-2014  # Exception:Direct Socket TCPServer ProcessLogicServerErrorHandler - System.Net.Sockets.SocketException: Only one usage of each socket address (protocol/network address/port) is normally permitted
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   Error: splusmanagerapp.exe # 11:36:58  7-16-2014  # at System.Net.Sockets.TcpListener.Start()
+   at Crestron.Infrastructure.ASocketTcpServer.d()
+   at Crestron.Infrastructure.ASocketTcpServer.a()
+
+Error: splusmanagerapp.exe [App 1] # 11:36:58  7-16-2014  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+Error: splusmanagerapp.exe [App 1] # 11:36:58  7-16-2014  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+Error: splusmanagerapp.exe [App 1] # 11:36:58  7-16-2014  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+Error: splusmanagerapp.exe [App 1] # 11:36:58  7-16-2014  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+Error: splusmanagerapp.exe [App 1] # 11:36:58  7-16-2014  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+Error: splusmanagerapp.exe [App 1] # 11:36:58  7-16-2014  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+Error: splusmanagerapp.exe [App 1] # 11:36:58  7-16-2014  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+Error: splusmanagerapp.exe [App 1] # 11:36:58  7-16-2014  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+Error: splusmanagerapp.exe [App 1] # 11:36:58  7-16-2014  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+Error: splusmanagerapp.exe [App 1] # 11:36:58  7-16-2014  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+Error: splusmanagerapp.exe [App 1] # 11:36:59  7-16-2014  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+Error: splusmanagerapp.exe [App 1] # 11:36:59  7-16-2014  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+Error: splusmanagerapp.exe [App 1] # 11:36:59  7-16-2014  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+Error: splusmanagerapp.exe [App 1] # 11:36:59  7-16-2014  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+Error: splusmanagerapp.exe [App 1] # 11:36:59  7-16-2014  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+Error: splusmanagerapp.exe [App 1] # 11:36:59  7-16-2014  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+Error: splusmanagerapp.exe [App 1] # 11:36:59  7-16-2014  # Module S-7.1.1.18.1 : Lutron_Homeworks_Interactive_RF_Keypad_Interpretation_Processor_2007_04_02 at line 154: In/Out Array accessed with index 0.  Using index 1
+Error: splusmanagerapp.exe [App 1] # 11:37:02  7-16-2014  # Module S-4.2.1.3.1.1:S-4 : MTROL_Equipment_Controller___Full_2007_06_04 at line 201: Invalid remove length: 3  String length : 0
+Notice: LogicEngine.exe # 11:37:02  7-16-2014  # **Program 1 Started**
+Info: LogicEngine.exe [App 1] # 11:37:02  7-16-2014  #  Going to steady state now 
+Info: Displaymanager.exe # 11:37:03  7-16-2014  # SYS_EVENT_ALL_APPS_STARTED - Rcvd 
+Info: RouterTransportProcess.exe # 11:37:03  7-16-2014  # Attempt to determine DHCP Server's IP Succeeded. Address is 172.22.0.2
+Info: RouterTransportProcess.exe # 11:37:03  7-16-2014  #  Attempting to connect to (172.22.0.2)
+Info: RouterTransportProcess.exe # 11:37:03  7-16-2014  # RTP: Connected to Server
+Info: TLDM.exe # 11:37:04  7-16-2014  #  Event rcvd is 8 
+Info: CRESLOG.exe # 11:37:04  7-16-2014  # PersistentLog: Logging is started!
+Warning: splusmanagerapp.exe [App 1] # 11:37:04  7-16-2014  # Module S-4.2.1.1.6:S-1.4 : NuVo_Parser__XM_2011_02_11 at line 288: UpdateInputValue: Could not get m_BufferReadyEvent
+Info: RouterTransportProcess.exe # 11:37:06  7-16-2014  # RTP: Port Forward Entries Committed
+Info: RouterTransportProcess.exe # 11:37:06  7-16-2014  # SendRouterConnectEvent: Router got connected
+Ok: CIPCommandProcessor.exe # 11:37:06  7-16-2014  # Got Router connected event 
+Notice: CIPCommandProcessor.exe # 11:37:06  7-16-2014  # Link established on CS
+Ok: CIPCommandProcessor.exe # 11:37:09  7-16-2014  #  Launching TCP server now 
+Error: splusmanagerapp.exe [App 1] # 11:37:12  7-16-2014  # Module S-3.2.3 : MTROL_Area_Source_Mapping__2007_12_14 at line 149: In/Out Array accessed with index 0.  Using index 1
+Error: splusmanagerapp.exe [App 1] # 11:37:12  7-16-2014  # Module S-3.2.3 : MTROL_Area_Source_Mapping__2007_12_14 at line 150: In/Out Array accessed with index 0.  Using index 1
+Error: splusmanagerapp.exe [App 1] # 11:37:12  7-16-2014  # Module S-3.4.3 : MTROL_Area_Source_Mapping__2007_12_14 at line 149: In/Out Array accessed with index 0.  Using index 1
+Error: splusmanagerapp.exe [App 1] # 11:37:12  7-16-2014  # Module S-3.4.3 : MTROL_Area_Source_Mapping__2007_12_14 at line 150: In/Out Array accessed with index 0.  Using index 1
+Error: splusmanagerapp.exe [App 1] # 11:37:12  7-16-2014  # Module S-3.5.3 : MTROL_Area_Source_Mapping__2007_12_14 at line 149: In/Out Array accessed with index 0.  Using index 1
+Error: splusmanagerapp.exe [App 1] # 11:37:14  7-16-2014  # Module S-5.1.1.14 : Text_Update_64__2007_10_30 at line 173: In/Out Array index out of bounds.  Index: 72, Length: 65
+Error: splusmanagerapp.exe [App 1] # 11:37:14  7-16-2014  # Module S-5.1.1.14 : Text_Update_64__2007_10_30 at line 174: In/Out Array index out of bounds.  Index: 72, Length: 65
+Error: splusmanagerapp.exe [App 1] # 11:37:14  7-16-2014  # Module S-5.1.1.14 : Text_Update_64__2007_10_30 at line 175: Array out of bounds access
+Error: splusmanagerapp.exe [App 1] # 11:37:14  7-16-2014  # Module S-3.5.3 : MTROL_Area_Source_Mapping__2007_12_14 at line 150: In/Out Array accessed with index 0.  Using index 1
+Info: TLDM.exe # 11:37:14  7-16-2014  # ConfigRouterOnStartup: Port Forward Entries Committed
+Info: TLDM.exe # 11:37:15  7-16-2014  #  Router got Connected 
+Notice: CIPCommandProcessor.exe # 11:37:18  7-16-2014  # Link established on LAN
+Notice: CIPCommandProcessor.exe # 11:37:25  7-16-2014  # TCP Client  App 1 IP-ID51: Unable to connect to TCP server (192.168.1.51)
+Notice: CIPCommandProcessor.exe # 11:37:25  7-16-2014  # TCP Client  App 1 IP-ID90: Unable to connect to TCP server (192.168.1.90)
+Notice: CIPCommandProcessor.exe # 11:37:25  7-16-2014  # TCP Client  App 1 IP-ID54: Unable to connect to TCP server (192.168.1.54)
+Notice: CIPCommandProcessor.exe # 11:37:25  7-16-2014  # TCP Client  App 1 IP-ID53: Unable to connect to TCP server (192.168.1.53)
+Notice: CIPCommandProcessor.exe # 11:37:25  7-16-2014  # TCP Client  App 1 IP-ID52: Unable to connect to TCP server (192.168.1.52)
+Notice: CIPCommandProcessor.exe # 11:37:31  7-16-2014  # TCP Client  App 1 IP-ID10: Unable to connect to TCP server (192.168.1.10)
+Notice: CIPCommandProcessor.exe # 11:37:53  7-16-2014  # TCP Client  App 1 IP-ID10: Unable to connect to TCP server (192.168.1.10)
+Warning: splusmanagerapp.exe [App 1] # 11:38:03  7-16-2014  # Module S-3.2.5 : MTROL_Area_Level_Mapping__2007_12_14 at line 180: UpdateInputValue: Could not get m_BufferReadyEvent
+Error: splusmanagerapp.exe [App 1] # 11:38:03  7-16-2014  # Module S-3.2.5 : MTROL_Area_Level_Mapping__2007_12_14 at line 180: Unhandled Exception: System.ArgumentOutOfRangeException: Specified argument was out of the range of valid values.
+   at System.Text.StringBuilder.Remove(Int32 startIndex, Int32 length)
+ Error: splusmanagerapp.exe [App 1] # 11:38:03  7-16-2014  #   at Crestron.Logos.SplusObjects.CrestronString.a(Int32 A_0, CrestronString A_1)
+   at Crestron.Logos.SplusObjects.CrestronString.Remove(Int32 length, Boolean bGrabLock)
+   at Crestron.Logos.SplusObjects.CrestronStringExtentions.Remove(CrestronString CRError: splusmanagerapp.exe [App 1] # 11:38:04  7-16-2014  # String, Int32 length)
+   at Crestron.Logos.SplusObjects.CrestronStringExtentions.Remove(CrestronString CRString, String matchStr, Int32 startPos)
+   at Crestron.Logos.SplusLibrary.Functions.Remove(String matchStr, CrestronString input)
+   at UserModuleError: splusmanagerapp.exe [App 1] # 11:38:04  7-16-2014  # _MTROL_AREA_LEVEL_MAPPING__2007_12_14.UserModuleClass_MTROL_AREA_LEVEL_MAPPING__2007_12_14.AREA_LEVEL__DOLLAR___OnChange_1(Object __EventInfo__)
+   at Amib.Threading.Internal.WorkItem.e()
+   at Amib.Threading.Internal.WorkItem.Execute()
+   at Amib.ThreError: splusmanagerapp.exe [App 1] # 11:38:04  7-16-2014  # ading.SmartThreadPool.d(WorkItem A_0)
+   at Amib.Threading.SmartThreadPool.n()
+
+Notice: CIPCommandProcessor.exe # 11:38:14  7-16-2014  # TCP Client  App 1 IP-ID10: Unable to connect to TCP server (192.168.1.10)
+Notice: ConsoleServiceCE.exe # 11:41:43  7-16-2014  # CTP Connection from: 192.168.1.143 
+Notice: ConsoleServiceCE.exe # 11:43:15  7-16-2014  # CTP Connection from: 192.168.1.143 
+Warning: ConsoleServiceCE.exe # 11:44:01  7-16-2014  # Another console session is open 
+Notice: ConsoleServiceCE.exe # 11:44:01  7-16-2014  # CTP Connection from: 192.168.1.143 
+Warning: ConsoleServiceCE.exe # 11:44:30  7-16-2014  # Another console session is open 
+Notice: ConsoleServiceCE.exe # 11:44:31  7-16-2014  # CTP Connection from: 192.168.1.143 
+FECTimer: Exceeded Receive Packet Trip Count, dwRxPacketReceived: 4201 in 1000 milliseconds
+FECTimer: Ethernet disabled by watchdog
+FECTimer: ETH RX re-enabled by watchdog 
+FECTimer: Exceeded Receive Packet Trip Count, dwRxPacketReceived: 4200 in 1000 milliseconds
+FECTimer: Ethernet disabled by watchdog
+FECTimer: ETH RX re-enabled by watchdog 
+FECTimer: Exceeded Receive Packet Trip Count, dwRxPacketReceived: 4200 in 1000 milliseconds
+FECTimer: Ethernet disabled by watchdog
+FECTimer: ETH RX re-enabled by watchdog 
+FECTimer: Exceeded Receive Packet Trip Count, dwRxPacketReceived: 4201 in 1000 milliseconds
+FECTimer: Ethernet disabled by watchdog
+FECTimer: ETH RX re-enabled by watchdog 
+FECTimer: Exceeded Receive Packet Trip Count, dwRxPacketReceived: 4201 in 1000 milliseconds
+FECTimer: Ethernet disabled by watchdog
+FECTimer: ETH RX re-enabled by watchdog 
+Notice: ConsoleServiceCE.exe # 11:51:45  7-16-2014  # TELNET Connection from: 192.168.1.143 
+Info: SSHD.exe # 11:51:45  7-16-2014  # Could not write ident string to 192.168.1.143
+Error: LogicEngine.exe # 11:51:56  7-16-2014  # SendMessageToTLDM. Error on send. Error Code 0x5b4
+Error: LogicEngine.exe [App 1] # 11:51:56  7-16-2014  # Slot-05.IP-ID-10 could not send data to TLDM - packet: [10][03][00][00][80]
+Error: LogicEngine.exe # 11:52:06  7-16-2014  # SendMessageToTLDM. Error on send. Error Code 0x5b4
+Error: LogicEngine.exe [App 1] # 11:52:06  7-16-2014  # Slot-05.IP-ID-53 could not send data to TLDM - packet: [53][04][12][00][0D][0A]
+Error: LogicEngine.exe # 11:52:16  7-16-2014  # SendMessageToTLDM. Error on send. Error Code 0x5b4
+Error: LogicEngine.exe [App 1] # 11:52:16  7-16-2014  # Slot-05.IP-ID-52 could not send data to TLDM - packet: [52][04][12][00][0D][0A]
+Error: LogicEngine.exe # 11:52:26  7-16-2014  # SendMessageToTLDM. Error on send. Error Code 0x5b4
+Error: LogicEngine.exe [App 1] # 11:52:26  7-16-2014  # Slot-05.IP-ID-51 could not send data to TLDM - packet: [51][04][12][00][0D][0A]
+Error: LogicEngine.exe # 11:52:36  7-16-2014  # SendMessageToTLDM. Error on send. Error Code 0x5b4
+Error: LogicEngine.exe [App 1] # 11:52:36  7-16-2014  # Slot-06 could not send data to TLDM - packet: [06][09][12][03][23][4C][45][44][53][3F][0D]
+Error: LogicEngine.exe # 11:52:46  7-16-2014  # SendMessageToTLDM. Error on send. Error Code 0x5b4
+Error: LogicEngine.exe [App 1] # 11:52:46  7-16-2014  # Slot-05.IP-ID-10 could not send data to TLDM - packet: [10][03][00][00][00]
+Error: LogicEngine.exe # 11:52:56  7-16-2014  # SendMessageToTLDM. Error on send. Error Code 0x5b4
+Error: LogicEngine.exe [App 1] # 11:52:56  7-16-2014  # Slot-05.IP-ID-10 could not send data to TLDM - packet: [10][03][00][00][80]
+Error: LogicEngine.exe # 11:53:06  7-16-2014  # SendMessageToTLDM. Error on send. Error Code 0x5b4
+Error: LogicEngine.exe [App 1] # 11:53:06  7-16-2014  # Slot-05.IP-ID-10 could not send data to TLDM - packet: [10][03][00][00][00]
+Error: LogicEngine.exe # 11:53:16  7-16-2014  # SendMessageToTLDM. Error on send. Error Code 0x5b4
+Error: LogicEngine.exe [App 1] # 11:53:16  7-16-2014  # Slot-05.IP-ID-10 could not send data to TLDM - packet: [10][03][00][00][80]
+Error: LogicEngine.exe # 11:53:26  7-16-2014  # SendMessageToTLDM. Error on send. Error Code 0x5b4
+Error: LogicEngine.exe [App 1] # 11:53:26  7-16-2014  # Slot-05.IP-ID-10 could not send data to TLDM - packet: [10][03][00][00][00]
+Error: LogicEngine.exe # 11:53:36  7-16-2014  # SendMessageToTLDM. Error on send. Error Code 0x5b4
+Error: LogicEngine.exe [App 1] # 11:53:36  7-16-2014  # Slot-06 could not send data to TLDM - packet: [06][09][12][03][23][4C][45][44][53][3F][0D]
+Error: LogicEngine.exe # 11:53:46  7-16-2014  # SendMessageToTLDM. Error on send. Error Code 0x5b4
+Error: LogicEngine.exe [App 1] # 11:53:46  7-16-2014  # Slot-05.IP-ID-10 could not send data to TLDM - packet: [10][03][00][00][80]
+Error: LogicEngine.exe # 11:53:56  7-16-2014  # SendMessageToTLDM. Error on send. Error Code 0x5b4
+Error: LogicEngine.exe [App 1] # 11:53:56  7-16-2014  # Slot-05.IP-ID-10 could not send data to TLDM - packet: [10][03][00][00][00]
+Error: LogicEngine.exe # 11:54:06  7-16-2014  # SendMessageToTLDM. Error on send. Error Code 0x5b4
+Error: LogicEngine.exe [App 1] # 11:54:06  7-16-2014  # Slot-05.IP-ID-53 could not send data to TLDM - packet: [53][04][12][00][0D][0A]
+Error: LogicEngine.exe # 11:54:16  7-16-2014  # SendMessageToTLDM. Error on send. Error Code 0x5b4
+Error: LogicEngine.exe [App 1] # 11:54:16  7-16-2014  # Slot-05.IP-ID-52 could not send data to TLDM - packet: [52][04][12][00][0D][0A]
+Error: LogicEngine.exe # 11:54:26  7-16-2014  # SendMessageToTLDM. Error on send. Error Code 0x5b4
+Error: LogicEngine.exe [App 1] # 11:54:26  7-16-2014  # Slot-05.IP-ID-51 could not send data to TLDM - packet: [51][04][12][00][0D][0A]
+Error: LogicEngine.exe # 11:54:36  7-16-2014  # SendMessageToTLDM. Error on send. Error Code 0x5b4
+Error: LogicEngine.exe [App 1] # 11:54:36  7-16-2014  # Slot-05.IP-ID-10 could not send data to TLDM - packet: [10][03][00][00][80]
+Error: LogicEngine.exe # 11:54:46  7-16-2014  # SendMessageToTLDM. Error on send. Error Code 0x5b4
+Error: LogicEngine.exe [App 1] # 11:54:46  7-16-2014  # Slot-05.IP-ID-10 could not send data to TLDM - packet: [10][03][00][00][00]
+FECTimer: Exceeded Receive Packet Trip Count, dwRxPacketReceived: 4201 in 1000 milliseconds
+FECTimer: Ethernet disabled by watchdog
+FECTimer: ETH RX re-enabled by watchdog 
+FECTimer: Exceeded Receive Packet Trip Count, dwRxPacketReceived: 4200 in 1000 milliseconds
+FECTimer: Ethernet disabled by watchdog
+Error: LogicEngine.exe # 11:54:56  7-16-2014  # SendMessageToTLDM. Error on send. Error Code 0x5b4
+Error: LogicEngine.exe [App 1] # 11:54:56  7-16-2014  # Slot-05.IP-ID-10 could not send data to TLDM - packet: [10][03][00][00][80]
+FECTimer: ETH RX re-enabled by watchdog 
+Error: LogicEngine.exe # 11:55:06  7-16-2014  # SendMessageToTLDM. Error on send. Error Code 0x5b4
+Error: LogicEngine.exe [App 1] # 11:55:06  7-16-2014  # Slot-06 could not send data to TLDM - packet: [06][09][12][03][23][4C][45][44][53][3F][0D]
+Error: LogicEngine.exe # 11:55:16  7-16-2014  # SendMessageToTLDM. Error on send. Error Code 0x5b4
+Error: LogicEngine.exe [App 1] # 11:55:16  7-16-2014  # Slot-05.IP-ID-10 could not send data to TLDM - packet: [10][03][00][00][00]
+Error: LogicEngine.exe # 11:55:26  7-16-2014  # SendMessageToTLDM. Error on send. Error Code 0x5b4
+Error: LogicEngine.exe [App 1] # 11:55:26  7-16-2014  # Slot-05.IP-ID-10 could not send data to TLDM - packet: [10][03][00][00][80]
+Notice: ConsoleServiceCE.exe # 11:55:32  7-16-2014  # CTP Connection from: 192.168.1.143 
+Error: LogicEngine.exe # 11:55:36  7-16-2014  # SendMessageToTLDM. Error on send. Error Code 0x5b4
+Error: LogicEngine.exe [App 1] # 11:55:36  7-16-2014  # Slot-05.IP-ID-10 could not send data to TLDM - packet: [10][03][00][00][00]
+Persistent log contents during current boot end
+
